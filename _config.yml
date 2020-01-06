@@ -11,7 +11,7 @@ title                    : "Xiaoyi Tian"
 title_separator          : "-"
 name                     : &name "Xiaoyi Tian"
 description              : &description "Master's student at University of Pittsburgh"
-url                      : https://txiaoyi.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : sylvia935.github.io  # https://txiaoyi.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sylvia935.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaoyi Tian"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master's student at University of Pittsburgh; \nResearch Intern at HCII, Carnegie Mellon University; \nResearch interest: Human-Centered Design and Computing, Learning Technoligies"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "xiaoyi-tian at pitt dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
