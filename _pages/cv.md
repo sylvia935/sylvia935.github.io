@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2019: Research Assistant
   * University of Pittsburgh
-  * Supervisor: Professor Erin Walker
+  * Supervisor: Erin Walker
   
 Skills
 ======
