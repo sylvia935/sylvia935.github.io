@@ -11,7 +11,7 @@ title                    : "Xiaoyi Tian"
 title_separator          : "-"
 name                     : &name "Xiaoyi Tian"
 description              : &description "Master's student at University of Pittsburgh"
-url                      : sylvia935.github.io  # https://txiaoyi.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sylvia935.github.io"  # https://txiaoyi.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sylvia935.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaoyi Tian"
   avatar           : "headshot-square.jpg"
-  bio              : "Human-Centered Design and Computing, Learning Technologies"
+  bio              : "Learning Technologies, Human-Robot Interaction, Human-Centered Computing"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
       layout: talk
       author_profile: true
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
