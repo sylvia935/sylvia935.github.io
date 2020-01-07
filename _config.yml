@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyi Tian"
-  avatar           : "profile.png"
-  bio              : "Master's student at University of Pittsburgh; \nResearch Intern at HCII, Carnegie Mellon University; \nResearch interest: Human-Centered Design and Computing, Learning Technoligies"
+  avatar           : "headshot-square.jpg"
+  bio              : "Human-Centered Design and Computing, Learning Technologies"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
