@@ -12,22 +12,32 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-Active Projects
+# Active Projects
 ------
 
-*StudyBuddy*: A Chatbot Designing for College Freshman Study Habits 
+## *StudyBuddy*: A Chatbot Designing for College Freshman Study Habits
+### *Collaborators: Ishrat Ahmed, Arun Balajiee, Zak Risha, Jacob Biehl*
+### *University of Pittsburgh, School of Computing and Information*
+
 [image here]
-In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. Collaborating with three students and [Dr. Jacob Biehl](https://jtbiehl.github.io/), we designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over Slack and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. 
+In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. Collaborating with three students and Dr. [Jacob Biehl](https://jtbiehl.github.io/), we designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over Slack and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. 
 
-*Emma*: 
+## Rapport Management in Multi-session Interactions with a Social, Teachable Robot
+### *Collaborators: Erin Walker, Nichola Lubold*
+### *University of Pittsburgh, Facet lab*
 
-a project under the supervision of [Dr. Erin Walker]() to investigate middle school students’ rapport (a sense of harmony) with a robot who speaks socially. I coded rapport using linguistic cues among the human-robot dialogue and observed individuals’ different reaction patterns with the robot. The study informed the human rapport theory as it provided insight into whether human rapport could be translated into human-robot interactions and why. 
+Advised by Dr. [Erin Walker](http://erinwalker.owlstown.com/), I led this project studying middle school students’ rapport (a sense of harmony) with a robot who speaks socially called *Emma*. This is an exploratory study investigating 1) whether different individuals' reaction patterns are different from each other, 2) whether the same person behaves predictablly over multiple sessions, and 3) whether human rapport framwork could translated into human-robot interactions. Our rapport work is based on human rapport theories (e.g. Tickle-degnen and Rosentual's), but is operationalized using conversational strategies and linguistic cues from our data, i.e. the human-robot dialogue. 
 
-Past Projects 
+
+
+# Past Projects 
 ------
 
-Social Media Attention Effectiveness for Fundraising among Nonprofit Organizations
+## Social Media Attention Effectiveness for Fundraising among Nonprofit Organizations
+### *Collaborators: Rosta Farzan*
+### *University of Pittsburgh, Sustainable Social Computing lab*
 
+This project is an independent study supervised by Dr. [Rosta Farzan](rosta-farzan.net/) during Spring 2019. I explored how nonprofit organizations’ use of social media for publicity and for gaining donations. I analyzed 414,312 Twitter posts of local non-profit organizations in Chile and their donations records. I found that a nonprofit being “heard” does not solely depend on how “loud” it speaks (i.e. the number of tweets), instead, these accounts also rely on “whom” they speak to and “where” they speak (i.e. Mentions “@” and Hashtags “#”). Using the findings from this research, nonprofit organizations can allocate their restricted capacity more effectively. 
 
 
 
