@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Who I Am
-======
+-----
 
-I'm a Master's student in [Information Science at University of Pittsburgh](https://sci.pitt.edu/) specializing in Human-Centered Computing. I am working with [Dr. Erin Walker](http://erinwalker.owlstown.com/) in Future Adaptive Colaborative Educational Technology(Facet) lab. I am also a Research Intern at Human-Computer Interaction Institute, Carnegie Mellon University, where I am supurvised by [Michael Madaio](http://michaelmadaio.com/) and [Dr. Amy Ogan](https://www.amyogan.com/). 
+I'm a Master's student in [Information Science at University of Pittsburgh](https://sci.pitt.edu/) specializing in Human-Centered Computing. I am working with [Dr. Erin Walker](http://erinwalker.owlstown.com/) in Future Adaptive Colaborative Educational Technology(Facet) lab. I am also a Research Intern supurvised by [Michael Madaio](http://michaelmadaio.com/) and [Dr. Amy Ogan](https://www.amyogan.com/) at Human-Computer Interaction Institute, Carnegie Mellon University. 
 
-At Pitt, I have previously worked with [Dr. Rosta Farzan](http://rosta-farzan.net/) in Sustainable Social Computing lab. I received my bachelor degree in Management Science from [Anhui University](http://en.ahu.edu.cn/). At AHU, I worked in areas of online community and information systems. 
+At Pitt, I have previously worked with [Dr. Rosta Farzan](http://rosta-farzan.net/) in Sustainable Social Computing lab. I received my bachelor degree in Management Science from [Anhui University](http://en.ahu.edu.cn/), where I worked in areas of online community and information systems. 
 
 What I Do
-======
+-----
 
 My research focuses on Learning Technologies and Human-Computer Interaction. I apply human-centered methods to first understand how humans perceive and interact with learning technologies, and then design and implement technology that offers personalized education. 
 
