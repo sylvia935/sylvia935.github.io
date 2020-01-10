@@ -15,7 +15,7 @@ redirect_from:
 *Collaborators: Ishrat Ahmed, Arun Balajiee, Zak Risha, Jacob Biehl*<br/>
 *University of Pittsburgh, School of Computing and Information*
 
-<img align="left" width="400" height="600" src="/images/chatbot.png">
+<img align="right" width="400" height="600" src="/images/chatbot.png">
 
 This is a course project for CS 3570 Advanced User Interface Seminar. 
 In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over Slack and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. We offer design guideline of the chatbot supporting learning behavioral change. 
@@ -32,7 +32,7 @@ This is an independent research project advised by Dr. [Erin Walker](http://erin
 *Collaborators: Michael Madaio, Amy Ogan* <br/>
 *Carnegie Mellon University, Human Computer Interaction Institute*
 
-<img align="left" width="400" height="600" src="/images/AlloAlphabet.jpg">
+<img align="right" width="400" height="600" src="/images/AlloAlphabet.jpg">
 
 This is my research intern work at Carnegie Mellon collaborated with [Michael Madaio](michaelmadaio.com/) and Dr. [Amy Ogan](https://www.amyogan.com/). Literacy has been linked to pervasive poverty, unemployment and illness, educational technologies can help mitigate low levels of childhood literacy. As part of a large project *Allo Alphabet* currently deployed their phase 2 study in rural Côte d’Ivoire, my responsibility includes monitoring the user's (children and their parents) system usage and analyzing children’s learning progress through the curriculum. More recently, I started look at learning curve analysis of childhood literacy in low resource contexts. 
 
