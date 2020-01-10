@@ -25,7 +25,7 @@ In the transition to a new stage of learning, college freshmen are in specific n
 
 <img align="right" width="450" height="650" src="/images/teachable-robot.jpg">
 
-This is an independent research project advised by Dr. [Erin Walker](http://erinwalker.owlstown.com/). I studied middle school students’ rapport (a sense of harmony) with a robot who speaks socially called *Emma*. This is an exploratory study investigating 1) whether different individuals' reaction patterns are different from each other, 2) whether the same person behaves predictablly over multiple sessions, and 3) whether human rapport framwork could translated into human-robot interactions. Our rapport work is based on human rapport theories (e.g. Tickle-degnen and Rosentual's), but is operationalized using conversational strategies and linguistic cues from our data, i.e. the human-robot dialogue.
+This is an independent research project advised by Dr. [Erin Walker](http://erinwalker.owlstown.com/). I studied middle school students’ rapport (a sense of harmony) with a robot who speaks socially called *Emma*. This is an exploratory study investigating 1) whether different individuals' reaction patterns are different from each other, 2) whether the same person behaves predictablly over multiple sessions, and 3) whether human rapport framwork could translated into human-robot interactions. Our rapport work is based on human rapport theories (e.g. Tickle-degnen & Rosenthal), but is operationalized using conversational strategies and linguistic cues from our data, i.e. the human-robot dialogue.
 
 ### *Allo Alphabet*: Mobile Literacy System Improving Children's French Literacy in West Africa
 *Collaborators: Michael Madaio, Amy Ogan* <br/>
