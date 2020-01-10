@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Xiaoyi Tian"
   avatar           : "headshot-square.jpg"
-  bio              : "Master's student @ PITT; Ed Tech Enthusiast"
+  bio              : "Master's student @ PITT;" <\br> "Ed Tech Enthusiast"
   location         : "Pittsburgh, PA"
-  employer         :
+  employer         : "University of Pittsburgh"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "xiaoyi-tian at pitt dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  url              : "sylvia935.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
