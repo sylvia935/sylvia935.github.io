@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Tian - Research Projects"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /research-project/
   - /research-prokects
 ---
+
 ## Active Projects
 ------
 
