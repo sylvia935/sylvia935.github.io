@@ -32,7 +32,7 @@ This is an independent research project advised by Dr. [Erin Walker](http://erin
 *Collaborators: Michael Madaio, Amy Ogan* <br/>
 *Carnegie Mellon University, Human Computer Interaction Institute*
 
-<img align="right" width="450" height="650" src="/images/AlloAlphabet.jpg">
+<img align="right" width="450" height="600" src="/images/AlloAlphabet.png">
 
 This is my research intern work at Carnegie Mellon collaborated with [Michael Madaio](michaelmadaio.com/) and Dr. [Amy Ogan](https://www.amyogan.com/). Literacy has been linked to pervasive poverty, unemployment and illness, educational technologies can help mitigate low levels of childhood literacy. As part of a large project *Allo Alphabet* currently deployed their phase 2 study in rural Côte d’Ivoire, my responsibility includes monitoring the user's (children and their parents) system usage and analyzing children’s learning progress through the curriculum. More recently, I started look at learning curve analysis of childhood literacy in low resource contexts. 
 
