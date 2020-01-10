@@ -21,7 +21,7 @@ This is a course project for CS 3570 Advanced User Interface Seminar.
 In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over Slack and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. We offer design guideline of the chatbot supporting learning behavioral change. 
 
 ### Rapport Management in Multi-session Interactions with a Social, Teachable Robot
-*Collaborators: Erin Walker, Nichola Lubold*<br/>
+*Collaborators: Nichola Lubold, Leah Friedman, Erin Walker*<br/>
 *University of Pittsburgh, Facet lab*
 
 <img align="right" width="450" height="650" src="/images/teachable-robot.jpg">
