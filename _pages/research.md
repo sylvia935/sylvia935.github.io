@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tian - Research Projects"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -46,6 +46,15 @@ This is my research intern work at Carnegie Mellon collaborated with [Michael Ma
 <img align="right" width="450" height="650" src="/images/nonprofit.png">
 
 This project is an independent study supervised by Dr. [Rosta Farzan](rosta-farzan.net/) during Spring 2019. I explored how nonprofit organizations’ use of social media for publicity and for gaining donations. I analyzed 414,312 Twitter posts of local non-profit organizations in Chile and their donations records. I found that a nonprofit being “heard” does not solely depend on how “loud” it speaks (i.e. the number of tweets), instead, these accounts also rely on “whom” they speak to and “where” they speak (i.e. Mentions “@” and Hashtags “#”). Using the findings from this research, nonprofit organizations can allocate their restricted capacity more effectively.
+
+
+## Online Educational Information Quality Modeling and Perceived Diference Comparison 
+*Collaborators: Jing Li* <br/>
+*University of Pittsburgh, Sustainable Social Computing lab*
+
+<img align="right" width="450" height="650" src="/images/mooc.png">
+
+This is my *undergraduate research training* project advised by Dr. [Jing Li](https://www.researchgate.net/profile/Jing_Li216) at AHU. We investigated the relationship between online educational information resource quality and learning performance. We conducted 233 questionnaires, utilized structural equation modeling (SEM) to verify our theoretical model. We found that the content quality，form quality and utility quality of the online educational information resources had positive impact on information use，and then influenced the learning performance positively. We conducted qualitative analysis on differences among web course, search engine and online education social platform, which offered design implications for improving learning experience of online educational resources. 
 
 {% for post in site.research reversed %}
   {% include archive-single.html %}
