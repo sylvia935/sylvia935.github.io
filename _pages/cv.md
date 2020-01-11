@@ -34,9 +34,9 @@ Skills
   
 Awards and Honors
 ======
-* *2018* Outstanding Undergraduate Thesis at Anhui University (Top1% in Class) 
-* *2015 & 2016 & 2017* Academic Excellence Scholarship at Anhui University 
-* *2015 & 2017* ‘Merit Student’ at Anhui University 
+* Outstanding Undergraduate Thesis at Anhui University (Top1% in Class) *2018* 
+* Academic Excellence Scholarship at Anhui University *2015 & 2016 & 2017* 
+* ‘Merit Student’ at Anhui University *2015 & 2017* 
   
 Teaching
 ======
