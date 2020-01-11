@@ -48,7 +48,7 @@ This is my research intern work at Carnegie Mellon collaborated with [Michael Ma
 This project is an independent study supervised by Dr. [Rosta Farzan](rosta-farzan.net/) during Spring 2019. I explored how nonprofit organizations’ use of social media for publicity and for gaining donations. I analyzed 414,312 Twitter posts of local non-profit organizations in Chile and their donations records. I found that a nonprofit being “heard” does not solely depend on how “loud” it speaks (i.e. the number of tweets), instead, these accounts also rely on “whom” they speak to and “where” they speak (i.e. Mentions “@” and Hashtags “#”). Using the findings from this research, nonprofit organizations can allocate their restricted capacity more effectively.
 
 
-## Online Educational Information Quality Modeling and Perceived Diference Comparison 
+### Online Educational Information Quality Modeling and Perceived Diference Comparison 
 *Collaborators: Jing Li* <br/>
 *Anhui University, Department of Management Science*
 
