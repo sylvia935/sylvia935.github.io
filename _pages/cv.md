@@ -11,42 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Management Science, Anhui University, 2018
 * M.S. in Information Science, University of Pittsburgh, 2020 (expected)
+* B.S. in Management Science, Anhui University, 2018
 
 Work experience
 ======
-* Summer 2019: Research Assistant
+* April 2019 - present: Research Assistant
   * University of Pittsburgh
+  * Supervisor: Erin Walker
+* October 2019 - present: Research Intern
+  * Carnegie Mellon University
   * Supervisor: Erin Walker
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills: 
+  * R, JAVA, Python, Markdown, C, VB, SQL, MATLAB 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research: 
+  * experiment design, interview, survey, qualitative coding, statistical analysis, modeling, usability testing
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* *2018* Outstanding Undergraduate Thesis at Anhui University (Top1% in Class) 
+* *2015 & 2016 & 2017* Academic Excellence Scholarship at Anhui University 
+* *2015 & 2017* ‘Merit Student’ at Anhui University 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
