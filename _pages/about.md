@@ -20,6 +20,6 @@ My research focuses on Education Technologies and Human-Computer Interaction. I 
 
 My research particularly aims to answer a key question: **How can we design social, collaborative learning environments to improve student motivation and provide personalized learning experiences?** Computer-aided learning systems can do more than just present proper pedagogical feedback, but be able to provide affective and engaging learning experiences to the users. 
  
-For example, my [past research](https://sylvia935.github.io/research/) has investigated a) how middle school students manage rapport with a social, teachable robot, b) using conversational interfaces to aid college freshman study habits and skills, and (c) how mobile literacy system impacts children’s early literacy in west Africa.
+You can find my past research [here](https://sylvia935.github.io/research/). 
 
 I'm currently applying for doctoral programs (Fall, 2020).

@@ -16,11 +16,12 @@ Education
 
 Work experience
 ======
-* April 2019 - present: Research Assistant
-  * University of Pittsburgh
-  * Supervisor: Erin Walker
-* October 2019 - present: Research Intern
+* Oct 2019 - present: Research Intern
   * Carnegie Mellon University
+  * Supervisor: Michael Madaio, Amy Ogan
+
+* Apr 2019 - present: Research Assistant
+  * University of Pittsburgh
   * Supervisor: Erin Walker
   
 Skills
