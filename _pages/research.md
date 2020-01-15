@@ -18,7 +18,7 @@ redirect_from:
 <img align="right" width="450" height="650" src="/images/chatbot.png">
 
 This is a course project for CS 3570 Advanced User Interface Seminar.
-In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over Slack and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. We offer design guideline of the chatbot supporting learning behavioral change.
+In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over *Slack* and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. We offer design guideline of the chatbot supporting learning behavioral change.
 
 ### Rapport Management in Multi-session Interactions with a Social, Teachable Robot
 *Collaborators: Nichola Lubold, Leah Friedman, Erin Walker*<br/>
@@ -26,7 +26,7 @@ In the transition to a new stage of learning, college freshmen are in specific n
 
 <img align="right" width="450" height="650" src="/images/teachable-robot.jpg">
 
-This is an independent research project advised by Dr. [Erin Walker](http://erinwalker.owlstown.com/). I studied middle school students’ rapport (a sense of harmony) with a robot who speaks socially called *Emma*. This is an exploratory study investigating 1) whether different individuals' reaction patterns are different from each other, 2) whether the same person behaves predictablly over multiple sessions, and 3) whether human rapport framwork could translated into human-robot interactions. Our rapport work is based on human rapport theories (e.g. Tickle-degnen & Rosenthal), but is operationalized using conversational strategies and linguistic cues from our data, i.e. the human-robot dialogue.
+This is an independent research project advised by Dr. [Erin Walker](http://erinwalker.owlstown.com/). I studied middle school students’ rapport (a sense of harmony) with a robot who speaks socially called *Emma* for multiple sessions. This is an exploratory study investigating 1) whether different individuals' reaction patterns are different from each other, 2) whether the same person behaves predictablly over multiple sessions, and 3) whether human rapport framwork could translated into human-robot interactions. Our rapport work is based on human rapport theories (e.g. Tickle-degnen & Rosenthal), but is operationalized using conversational strategies and linguistic cues from our data, i.e. the human-robot dialogue.
 
 ### *Allo Alphabet*: Mobile Literacy System Improving Children's French Literacy in West Africa
 *Collaborators: Michael Madaio, Amy Ogan* <br/>
@@ -45,16 +45,16 @@ This is my research intern work at Carnegie Mellon collaborated with [Michael Ma
 
 <img align="right" width="450" height="650" src="/images/nonprofit.png">
 
-This project is an independent study supervised by Dr. [Rosta Farzan](rosta-farzan.net/) during Spring 2019. I explored how nonprofit organizations’ use of social media for publicity and for gaining donations. I analyzed 414,312 Twitter posts of local non-profit organizations in Chile and their donations records. I found that a nonprofit being “heard” does not solely depend on how “loud” it speaks (i.e. the number of tweets), instead, these accounts also rely on “whom” they speak to and “where” they speak (i.e. Mentions “@” and Hashtags “#”). Using the findings from this research, nonprofit organizations can allocate their restricted capacity more effectively.
+This is an independent study supervised by Dr. [Rosta Farzan](rosta-farzan.net/) during Spring 2019. I explored how nonprofit organizations’ use of social media for publicity and for gaining donations. I analyzed 414,312 Twitter posts of local non-profit organizations in Chile and their donations records. I found that a nonprofit being “heard” does not solely depend on how “loud” it speaks (i.e. the number of tweets), instead, these accounts also rely on “whom” they speak to and “where” they speak (i.e. Mentions “@” and Hashtags “#”). Using the findings from this research, nonprofit organizations can allocate their restricted capacity more effectively.
 
 
-### Online Educational Information Quality Modeling and Perceived Diference Comparison 
+### Online Educational Information Quality Modeling and Perceived Difference Comparison 
 *Collaborators: Jing Li* <br/>
 *Anhui University, Department of Management Science*
 
 <img align="right" width="450" height="650" src="/images/mooc.png">
 
-This is my *undergraduate research training* project advised by Dr. [Jing Li](https://www.researchgate.net/profile/Jing_Li216) at AHU. We investigated the relationship between online educational information resource quality and learning performance. We conducted 233 questionnaires, utilized structural equation modeling (SEM) to verify our theoretical model. We found that the content quality, form quality and utility quality of the online educational information resources had positive impact on information usage, and then positively influenced the user's learning performance. We conducted qualitative analysis on differenct information seeking behaviors among online courses (such as MOOC), search engine and education Q&A platforms (like Zhihu), which offered design implications for improving learning experience of people using online educational resources. 
+This is my *undergraduate research training* project advised by Dr. [Jing Li](https://www.researchgate.net/profile/Jing_Li216) at AHU. We investigated the relationship between online educational information resource quality and learning performance. We conducted 233 questionnaires, utilized structural equation model (SEM) to verify our proposed theoretical model. We found that the *content quality, form quality* and *utility quality* of the online educational information resources had positive impact on information usage, and then positively influenced the user's learning performance. We conducted qualitative analysis on differenct information seeking behaviors among online courses (such as MOOC), search engine and education Q&A platforms (like Zhihu), which offered design implications for improving learning experience of people using online educational resources. 
 
 {% for post in site.research reversed %}
   {% include archive-single.html %}

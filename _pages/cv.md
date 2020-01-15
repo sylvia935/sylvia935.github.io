@@ -30,11 +30,11 @@ Skills
   * R, JAVA, Python, Markdown, C, VB, SQL, MATLAB 
 
 * Research: 
-  * experiment design, interview, survey, qualitative coding, statistical analysis, modeling, usability testing
+  * Experiment design, interview, survey, qualitative coding, statistical analysis, modeling, usability testing
   
 Awards and Honors
 ======
-* Outstanding Undergraduate Thesis at Anhui University (Top1% in Class) *2018* 
+* Outstanding Undergraduate Thesis at Anhui University (Top 1% in Class) *2018* 
 * Academic Excellence Scholarship at Anhui University *2015 & 2016 & 2017* 
 * ‘Merit Student’ at Anhui University *2015 & 2017* 
   
