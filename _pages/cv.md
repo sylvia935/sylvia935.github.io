@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 {% include base_path %}
 
 Education

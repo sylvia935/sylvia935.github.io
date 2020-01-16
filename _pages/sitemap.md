@@ -35,3 +35,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+<script src="https://www.w3counter.com/tracker.js?id=129746"></script>
