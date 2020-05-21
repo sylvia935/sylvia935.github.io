@@ -8,7 +8,7 @@ author_profile: true
 
 
 **Understanding Rapport over Multiple Sessions with a Social, Teachable Robot**<br/>
-_Xiaoyi Tian_, Nichola Lubold, Leah Friedman, Erin Walker.<br/> 
+<u>Xiaoyi Tian</u>, Nichola Lubold, Leah Friedman, Erin Walker.<br/> 
 To appear in *Proceedings of 21th International Conference on Artificial Intelligence in Education (AIED)*. July, 2020.
 
 **Dominance as an Indicator of Rapport and Learning in Human-Agent Communication**<br/>
