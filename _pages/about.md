@@ -11,7 +11,7 @@ redirect_from:
 Who I Am
 -----
 
-I'm a Master's student in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, specializing in Human-Centered Computing. I am working with [Dr. Erin Walker](http://erinwalker.owlstown.com/) in Future Adaptive Colaborative Educational Technology(Facet) lab. I am also a Research Intern supurvised by [Michael Madaio](http://michaelmadaio.com/) and [Dr. Amy Ogan](https://www.amyogan.com/) at Human-Computer Interaction Institute, Carnegie Mellon University. I received my bachelor degree in Management Science from [Anhui University](http://en.ahu.edu.cn/), where I worked in areas of online community and management information systems. 
+I'm a Master's student in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, specializing in Human-Centered Computing. I am working with [Dr. Erin Walker](http://erinwalker.owlstown.com/) in Future Adaptive Colaborative Educational Technology(Facet) lab. I am also a Research Intern supurvised by [Michael Madaio](http://michaelmadaio.com/) and [Dr. Amy Ogan](https://www.amyogan.com/) at Human-Computer Interaction Institute, Carnegie Mellon University. I received my bachelor degree in Management Science from [Anhui University](http://en.ahu.edu.cn/). 
 
 In Fall 2020, I will become a PhD student in [Human-Centered Computing](https://www.cise.ufl.edu/) at University of Florida, where I will be joining Dr. [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer)'s group! 
 
