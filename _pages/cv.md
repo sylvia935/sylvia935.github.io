@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Information Science, University of Pittsburgh, 2020 (expected)
+* M.S. in Information Science, University of Pittsburgh, 2020
 * B.S. in Management Science, Anhui University, 2018
 
 Work experience
@@ -35,8 +35,8 @@ Skills
 Awards and Honors
 ======
 * Outstanding Undergraduate Thesis at Anhui University (Top 1% in Class) *2018* 
-* Academic Excellence Scholarship at Anhui University *2015 & 2016 & 2017* 
-* ‘Merit Student’ at Anhui University *2015 & 2017* 
+* Academic Excellence Scholarship at Anhui University *2015' & 2016' & 2017'* 
+* ‘Merit Student’ at Anhui University *2015' & 2017'* 
   
 Teaching
 ======
