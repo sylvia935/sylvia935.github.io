@@ -13,7 +13,7 @@ Short paper in *Proceedings of 21th International Conference on Artificial Intel
 
 **Dominance as an Indicator of Rapport and Learning in Human-Agent Communication**<br/> \[[pdf](http://txiaoyi.com/files/Buddemeyer_ACL_SRW.pdf)\]<br/>
 Amanda Buddemeyer, <u>Xiaoyi Tian</u>, Erin Walker.<br/>
-To appear in the *Student Research Workshop* in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)*. July, 2020.
+*Student Research Workshop* paper in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)*. July, 2020.
 
 **Online Educational Information Quality Modeling and Perceived Difference Comparison**<br/>
 <u>Xiaoyi Tian</u>, Jing Li, Qin Yu.<br/>
