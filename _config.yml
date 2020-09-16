@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaoyi (Sylvia) Tian"
   avatar           : "headshot-square.jpg"
-  bio              : "Ph.D. student at University of Florida, <a style='color: black;' href='https://www.cise.ufl.edu/'>CISE Department</a>; Ed Tech Enthusiast"
-  location         : "Pittsburgh, PA[WFH]"
+  bio              : "Ph.D. student at University of Florida, <a style='color: black;' href='https://www.cise.ufl.edu/'>CISE Department</a>; <a style='color: black;' href='http://learndialogue.org'>LearnDialogue Lab</a>; Ed Tech Enthusiast"
+  location         : "Pittsburgh, PA"
   employer         : # ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en"
