@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
-<li class="list-inline-item align-middle"><small>(<a href="javascript:copy(note, pro)">How to pronounce?</a>)</small></li>
-	<div id="note"></div>
-    <div id="pro" style="display:none">
-     	<li><p>
-			shall-yee
-        </p></li>
-    </div> 
+<div class="row">
+	<ul class="list-inline">
+		<li class="list-inline-item align-middle"><small>(<a href="javascript:copy(note, pro)">How to pronounce?</a>)</small></li>
+			<div id="note"></div>
+		    <div id="pro" style="display:none">
+		     	<li><p>
+					shall-yee
+		        </p></li>
+		    </div> 
+	</ul>
+</div>
 
 Who I Am
 -----
