@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
+<li class="list-inline-item align-middle"><small>(<a href="javascript:copy(note, pro)">How to pronounce?</a>)</small></li>
+	<div id="note"></div>
+    <div id="pro" style="display:none">
+     	<li><p>
+			shall-yee
+        </p></li>
+    </div> 
 Who I Am
 -----
-					  <li class="list-inline-item align-middle"><small>(<a href="javascript:copy(note, pro)">How to pronounce?</a>)</small></li>
-                      <div id="note"></div>
-                      <div id="pro" style="display:none">
-                          <li><p>
-                            shall-yee
-                          </p></li>
-                      </div> 
 
 I’m a first-year Ph.D. student in [Human-Centered Computing](https://www.cise.ufl.edu/) at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](http://erinwalker.owlstown.com/) in the Future Adaptive Collaborative Educational Technology (FACET) lab and [Michael Madaio](http://michaelmadaio.com/) and [Amy Ogan](https://www.amyogan.com/) at [Human-Computer Interaction Institute](https://hcii.cmu.edu/), Carnegie Mellon University. I received my bachelor degree from [Anhui University](http://en.ahu.edu.cn/) in Management Science.
 
