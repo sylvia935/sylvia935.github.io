@@ -14,7 +14,7 @@ redirect_from:
 			<div id="note"></div>
 		    <div id="pro" style="display:none">
 		     	<li><p>
-					My first name xiaoyi is pronounced similar to "shall-yee" and my last name tian is similar to "tee·en". 
+					My first name xiaoyi is pronounced similar to "shaw-yee" and my last name tian is pronounced as "tee·en". 
 		        </p></li>
 		    </div> 
 	</ul>
