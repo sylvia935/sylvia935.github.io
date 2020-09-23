@@ -8,19 +8,12 @@ redirect_from:
   - /about.html
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
-<script>
-	<div class="row">
-		<ul class="list-inline">
-			<li class="list-inline-item align-middle"><small>(<a href="javascript:copy(note, pro)">How to pronounce?</a>)</small></li>
-				<div id="note"></div>
-			    <div id="pro" style="display:none">
-			     	<li><p>
-						My first name xiaoyi is pronounced similar to "shaw-yee" and my last name tian is pronounced as "tee·en". 
-			        </p></li>
-			    </div> 
-		</ul>
-	</div>
-</script>
+
+
+<img align="right" width="100" height="30" src="{{ site.url }}/images/nameHandWrite.jpg">
+<small>(<a href="javascript:copy(note,pro)">How to pronounce?</a>)</small>
+<span id="note"></span>
+<span id="pro" style="display:none;">My first name xiaoyi is pronounced similar to "shaw-yee" and my last name tian is pronounced as "tee·en".</span>
 
 Who I Am
 -----
