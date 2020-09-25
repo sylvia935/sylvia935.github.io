@@ -12,16 +12,16 @@ redirect_from:
 ## Active Projects
 ------
 
-### *StudyBuddy*: A Chatbot Designing for College Freshman Study Habits
+### *StudyBuddy*: A Chatbot for Effective Study Habit Behavioral Change
 *Collaborators: Ishrat Ahmed, Arun Balajiee, Zak Risha, Jacob Biehl*<br/>
 *University of Pittsburgh, School of Computing and Information*
 
 <img align="right" width="450" height="650" src="/images/chatbot.png">
 
-Check out our [prototype video](https://youtu.be/bLlDL5UCMeI) on YouTube! 
+Check out our 3-minute [prototype demo](https://youtu.be/bLlDL5UCMeI)! 
 
 This is a course project for CS 3570 Advanced User Interface Seminar.
-In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavoiral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. We built prototypes in both high fedality over *Slack* and low fedality as storyboards. To evaluate a chatbot's role in support learning, we conducted cognitive walkthrough studies with both senior and first-year CS students. Finally, we offered design guidelines of the chatbot supporting learning behavioral change for college Computer Science freshman. 
+In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavioral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. we deployed *StudyBuddy* in Slack, that periodically sends tips, provides assessment of students’ study habitsvia surveys, helps the students break down assignments, and sends reminders. We finally offered design guidelines of the chatbot supporting learning behavioral change for college Computer Science students. 
 
 ### Rapport Management in Multi-session Interactions with a Social, Teachable Robot
 *Collaborators: Nichola Lubold, Leah Friedman, Erin Walker*<br/>
