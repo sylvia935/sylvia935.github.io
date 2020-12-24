@@ -5,7 +5,9 @@ permalink: /publication/
 author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
-
+**Let's Talk It Out: A Chatbot for Effective Study Habit Behavioral Change** <br/>
+<u>Xiaoyi Tian</u>, Zak Risha, Ishrat Ahmed, Arun Balajiee Lekshmi Narayanan, Jacob Biehl.<br/> 
+To appear in *Proceedings of the ACM on Human-Computer Interaction*. 2021.
 
 **Understanding Rapport over Multiple Sessions with a Social, Teachable Robot** \[[pdf](http://txiaoyi.com/files/Tian_aied2020_paper.pdf)\] \[[poster](http://txiaoyi.com/files/Tian_aied2020_poster.pdf)\]<br/>
 <u>Xiaoyi Tian</u>, Nichola Lubold, Leah Friedman, Erin Walker.<br/> 
