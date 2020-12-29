@@ -11,6 +11,13 @@ redirect_from:
 
 ## Active Projects
 ------
+### *PRIME*: Engaging STEM undergraduate students in computer science with intelligent tutoring systems
+<img align="right" width="450" height="650" src="/images/PRIME-screenshot.png">
+This is a collaborative research project at UF and NC State University [project full description here](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/project.php?id=prime). PRIME is an adaptive learning environment designed to support STEM undergraduates in learning computer science concepts through block-based programming. PRIME utilized Google’s Blockly framework to support block-based programs. Currently, we are working on creating adaptive feedback so that for a certain step in each activity, it generates hints with the most suitable amount of details (not just the bottom-out!). We are also interested in modeling student’s affective and cognitive states, which we hope to inform when and how the system should offer intervention to students while completing the activities.   
+
+
+## Past Projects
+------
 
 ### *StudyBuddy*: A Chatbot for Effective Study Habit Behavioral Change
 *Collaborators: Ishrat Ahmed, Arun Balajiee, Zak Risha, Jacob Biehl*<br/>
@@ -39,8 +46,6 @@ This is an independent research project. I studied middle school students’ rap
 
 This is my research intern work at Carnegie Mellon. *Allo Alphabet* is an IVR and SMS based literacy system that is currently deployed in rural Côte d’Ivoire. Literacy has been linked to pervasive poverty, unemployment and illness, educational technologies can help mitigate low levels of childhood literacy. But some children may get developmental delays in pre-literacy skills due to their family's literacy level, bilingual environment, etc. Given that computer-mediated literacy learning systems often have a fixed progression through the curriculum, it might not effectively support different learners. My research involves modeling students' phonological awareness skills using *Bayesian Knowledge Tracing* and investegating factors that associate with differing the learnabilities of children's pre-literacy skill. With our modeling, we can provide more adaptive support for different individuals in the literacy learning systems.
 
-## Past Projects
-------
 
 ### Social Media Attention Effectiveness for Fundraising among Nonprofit Organizations
 *Collaborators: Rosta Farzan* <br/>
