@@ -12,8 +12,8 @@ redirect_from:
 ## Active Projects
 ------
 ### *PRIME*: Engaging STEM undergraduate students in computer science with intelligent tutoring systems
-<img align="right" width="450" height="650" src="/images/PRIME-screenshot.png">
-This is a collaborative research project at UF and NC State University [project full description here](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/project.php?id=prime). PRIME is an adaptive learning environment designed to support STEM undergraduates in learning computer science concepts through block-based programming. PRIME utilized Google’s Blockly framework to support block-based programs. Currently, we are working on creating adaptive feedback so that for a certain step in each activity, it generates hints with the most suitable amount of details (not just the bottom-out!). We are also interested in modeling student’s affective and cognitive states, which we hope to inform when and how the system should offer intervention to students while completing the activities.   
+<img align="right" width="450" height="650" src="/images/PRIME-screenshot.PNG">
+This is a collaborative research project at UF and NC State University ([project full description here](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/project.php?id=prime)). PRIME is an adaptive learning environment designed to support STEM undergraduates in learning computer science concepts through block-based programming. PRIME utilized Google’s Blockly framework to support block-based programs. Currently, we are working on creating adaptive feedback so that for a certain step in each activity, it generates hints with the most suitable amount of details to help students on their thinking and problem-solving (not just giving out the correct answers!). We are also interested in modeling student’s affective and cognitive states, which we hope to inform when and how the system should offer intervention to students while completing the activities.   
 
 
 ## Past Projects
