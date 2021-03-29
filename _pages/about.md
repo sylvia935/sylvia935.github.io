@@ -9,7 +9,6 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-Xiaoyi Tian <img src="/images/nameHandWrite.JPG" style="width:10%">
 
 
 Who I Am
