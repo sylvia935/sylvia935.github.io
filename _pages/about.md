@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoyi Tian" 
+title: "About me" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,8 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-<figure>
-  <img src="/images/nameHandWrite.JPG" align = "left" style="width:10%">
-</figure> 
+Xiaoyi Tian <img src="/images/nameHandWrite.JPG" style="width:10%">
+
 
 Who I Am
 -----
