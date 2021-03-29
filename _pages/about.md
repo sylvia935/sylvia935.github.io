@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "Xiaoyi Tian <figure>
-  <img src="images/nameHandWrite.JPG.jpg" style="width:100%">
-</figure> " 
+title: "Xiaoyi Tian" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
