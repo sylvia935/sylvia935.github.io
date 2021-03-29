@@ -9,7 +9,9 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-
+<figure>
+  <img src="images/nameHandWrite.JPG.jpg" style="width:100%">
+</figure> 
 Who I Am
 -----
 
