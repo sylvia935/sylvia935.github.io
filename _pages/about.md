@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoyi Tian" 
+title: "Xiaoyi Tian <a>田笑怡</a>" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
