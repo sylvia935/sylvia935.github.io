@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaoyi Tian"
   avatar           : "headshot-square.jpg"
-  bio              : "<img src='/images/nameHandWrite.JPG' style='width:60%'> <br> Ph.D. student at University of Florida, <a style='color: black;' href='https://www.cise.ufl.edu/'>CISE Department</a>; <a style='color: black;' href='http://learndialogue.org'>LearnDialogue Lab</a>; Ed Tech Enthusiast"
+  bio              : "<img src='/images/nameHandWrite.JPG' style='width:50px'> <br> Ph.D. student at University of Florida, <a style='color: black;' href='https://www.cise.ufl.edu/'>CISE Department</a>; <a style='color: black;' href='http://learndialogue.org'>LearnDialogue Lab</a>; Ed Tech Enthusiast"
   location         : "Pittsburgh, PA"
   employer         : # ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
