@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoyi Tian 田笑怡"
+  name             : "Xiaoyi Tian <p>田笑怡</p>"
   avatar           : "headshot-square.jpg"
   bio              : "Ph.D. student at University of Florida, <a style='color: black;' href='https://www.cise.ufl.edu/'>CISE Department</a>; <a style='color: black;' href='http://learndialogue.org'>LearnDialogue Lab</a>; Ed Tech Enthusiast"
   location         : "Pittsburgh, PA"
