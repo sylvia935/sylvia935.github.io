@@ -10,7 +10,7 @@ redirect_from:
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
 <figure>
-  <img src="/images/nameHandWrite.JPG" style="width:100%">
+  <img src="/images/nameHandWrite.JPG" align = "left">
 </figure> 
 
 Who I Am
