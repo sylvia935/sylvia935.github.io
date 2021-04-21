@@ -44,9 +44,4 @@ Awards and Honors
 * Academic Excellence Scholarship at Anhui University *2015' & 2016' & 2017'* 
 * ‘Merit Student’ at Anhui University *2015' & 2017'* 
   
-Teaching
-======
-  
-Service and leadership
-======
 
