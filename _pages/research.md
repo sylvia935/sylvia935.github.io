@@ -14,6 +14,9 @@ redirect_from:
 ### *PRIME*: Engaging STEM Undergraduate Students in Computer Science with Intelligent Tutoring Systems
 <img align="right" width="450" height="650" src="/images/PRIME-screenshot.PNG">
 This is a collaborative research project at UF and NC State University ([project full description here](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/project.php?id=prime)). PRIME is an adaptive learning environment designed to support STEM undergraduates in learning computer science concepts through block-based programming. PRIME utilized Google’s Blockly framework to support block-based programs. We created adaptive, multilevel hints and feedback to help students on their computational thinking and problem-solving. In addition, we built student models about their affective and cognitive states, which we hope to inform when and how the system should offer intervention to students while completing the activities.   
+<br/>
+<br/>
+
 
 ### Linguistic Alignment in Collborative Coding Tasks
 *Collaborators: Amanda Griffith, Zane Price*<br/>
