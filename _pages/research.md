@@ -11,9 +11,17 @@ redirect_from:
 
 ## Active Projects
 ------
-### *PRIME*: Engaging STEM undergraduate students in computer science with intelligent tutoring systems
+### *PRIME*: Engaging STEM Undergraduate Students in Computer Science with Intelligent Tutoring Systems
 <img align="right" width="450" height="650" src="/images/PRIME-screenshot.PNG">
 This is a collaborative research project at UF and NC State University ([project full description here](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/project.php?id=prime)). PRIME is an adaptive learning environment designed to support STEM undergraduates in learning computer science concepts through block-based programming. PRIME utilized Google’s Blockly framework to support block-based programs. We created adaptive, multilevel hints and feedback to help students on their computational thinking and problem-solving. In addition, we built student models about their affective and cognitive states, which we hope to inform when and how the system should offer intervention to students while completing the activities.   
+
+### Linguistic Alignment in Collborative Coding Tasks
+*Collaborators: Amanda Griffith, Zane Price*<br/>
+*University of Florida, Computational Linguistics course project*
+
+<img align="right" width="450" height="650" src="/images/conver-align.png">
+
+Linguistic alignment arises when interlocutors begin to share common linguistic features during conversation. This phenomenon has shown to be predictive of task success, and to vary by age groups. Pair programming is a collaborative task that has various benefits in computer science education. Investigating linguistic alignment in pair programming tasks can help understand the key aspects of coordination and inform design of adaptive learning environments. In this study we investigate the low-level linguistic alignment (syntactic and lexical) in two pair programming corpora from 36 pairs of middle school and 15 pairs of college students. The results show that middle school students has higher syntactic alignment and lower lexical alignment than college students. More detail can be found in our \[[poster](../files/Tian_Linguistic_Alignment_poster.pdf)\]. 
 
 
 ## Past Projects
@@ -28,7 +36,7 @@ This is a collaborative research project at UF and NC State University ([project
 [Check out our 3-minute prototype demo](https://youtu.be/bLlDL5UCMeI)! 
 
 This is a course project for CS 3570 Advanced User Interface Seminar.
-In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavioral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. we deployed *StudyBuddy* in Slack, that periodically sends tips, provides assessment of students’ study habitsvia surveys, helps the students break down assignments, and sends reminders. We finally offered design guidelines of the chatbot supporting learning behavioral change for college Computer Science students. 
+In the transition to a new stage of learning, college freshmen are in specific need of developing their study habits and skills to achieve independent work in higher education. We designed a chatbot *StudyBuddy* to support freshman’s behavioral change. We administered interviews with peer tutors and surveys freshmen at Pitt’s CS department, which we found students have difficulties managing their project and time. we deployed *StudyBuddy* in Slack, that periodically sends tips, provides assessment of students’ study habits via surveys, helps the students break down assignments, and sends reminders. We finally offered design guidelines of the chatbot supporting learning behavioral change for college Computer Science students. 
 
 ### Rapport Management in Multi-session Interactions with a Social, Teachable Robot
 *Collaborators: Nichola Lubold, Leah Friedman, Erin Walker*<br/>
