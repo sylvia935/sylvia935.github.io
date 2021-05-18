@@ -23,7 +23,7 @@ Journal artical in *Proceedings of the ACM on Human-Computer Interaction 5*. CSC
 <u>Xiaoyi Tian</u>, Nichola Lubold, Leah Friedman, Erin Walker.<br/> 
 Short paper in *Proceedings of International Conference on Artificial Intelligence in Education (AIED)*. July, 2020.
 
-**Dominance as an Indicator of Rapport and Learning in Human-Agent Communication** \[[paper](http://txiaoyi.com/files/Buddemeyer_ACL_SRW.pdf)\]<br/>
+**Dominance as an Indicator of Rapport and Learning in Human-Agent Communication** \[[paper](http://txiaoyi.com/files/Buddemeyer_ACL_SRW.pdf)\] \[[presentation](https://virtual.acl2020.org/paper_srw.46.html)\]<br/>
 Amanda Buddemeyer, <u>Xiaoyi Tian</u>, Erin Walker.<br/>
 *Student Research Workshop* paper in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)*. July, 2020.
 
