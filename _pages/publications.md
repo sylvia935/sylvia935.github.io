@@ -7,7 +7,7 @@ author_profile: true
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
 
-**Modeling Frustration Trajectories and Problem-Solving Behaviors in Adaptive Learning Environments for Introductory Computer Science** \[[paper](../files/Tian_AIED_2021_PRIME.pdf)\] \[[presentation](../files/Tian_AIED2021_PRIME_slides.pdf)\] <br/> 
+**Modeling Frustration Trajectories and Problem-Solving Behaviors in Adaptive Learning Environments for Introductory Computer Science** \[[paper](../files/Tian_AIED_2021_PRIME.pdf)\] \[[slides](../files/Tian_AIED2021_PRIME_slides.pdf)\] <br/> 
 <u>Xiaoyi Tian</u>, Joseph B. Wiggins, Fahmid Morshed Fahid, Andrew Emerson, Dolly Bounajim, Andy Smith, Kristy Elizabeth Boyer, Eric Wiebe, Bradford Mott, James Lester.<br/> 
 Short paper in *Proceedings of International Conference on Artificial Intelligence in Education (AIED)*. June, 2021.
 
