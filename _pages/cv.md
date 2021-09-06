@@ -24,7 +24,7 @@ Work experience
 
 * Oct 2019 - Jul 2020: Research Intern
   * Carnegie Mellon University
-  * Supervisor: Michael Madaio, Amy Ogan
+  * Supervisor: Amy Ogan, Michael Madaio 
 
 * Apr 2019 - May 2020: Research Assistant
   * University of Pittsburgh
