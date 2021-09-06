@@ -11,7 +11,7 @@ author_profile: true
 <u>Xiaoyi Tian</u>, Joseph B. Wiggins, Fahmid Morshed Fahid, Andrew Emerson, Dolly Bounajim, Andy Smith, Kristy Elizabeth Boyer, Eric Wiebe, Bradford Mott, James Lester.<br/> 
 Short paper in *Proceedings of International Conference on Artificial Intelligence in Education (AIED)*. June, 2021.
 
-**Progression Trajectory-Based Student Modeling for Novice Block-Based Programming** \[[paper](../files/Fahid_UMAP_2021.pdf)\] <br/>
+**Progression Trajectory-Based Student Modeling for Novice Block-Based Programming** \[[paper](../files/Fahid_UMAP_2021.pdf)\]\[[presentation](https://dl.acm.org/doi/10.1145/3450613.3456833#sec-supp)\] <br/>
 Fahmid Morshed Fahid, <u>Xiaoyi Tian</u>, Andrew Emerson, Joseph B. Wiggins, Dolly Bounajim, Andy Smith, Eric Wiebe, Bradford Mott, Kristy Elizabeth Boyer, James Lester.<br/> 
 Full paper in *Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP)*. June, 2021.
 

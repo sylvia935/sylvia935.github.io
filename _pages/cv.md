@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Human-Centered Computing, University of Florida, 2025(expected)
+* Ph.D. in Human-Centered Computing, University of Florida, 2024(expected)
 * M.S. in Information Science, University of Pittsburgh, 2020
 * B.S. in Management Science, Anhui University, 2018
 

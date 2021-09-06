@@ -14,7 +14,7 @@ redirect_from:
 Who I Am
 -----
 
-I’m a first-year Ph.D. student in [Human-Centered Computing](https://www.cise.ufl.edu/) at University of Florida, advised by [Kristy Elizabeth Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](http://erinwalker.owlstown.com/) in the Future Adaptive Collaborative Educational Technology (FACET) lab and [Michael Madaio](http://michaelmadaio.com/) and [Amy Ogan](https://www.amyogan.com/) at [Human-Computer Interaction Institute](https://hcii.cmu.edu/), Carnegie Mellon University. I received my bachelor degree from [Anhui University](http://en.ahu.edu.cn/) in Management Science.
+I’m a second-year Ph.D. student in [Human-Centered Computing](https://www.cise.ufl.edu/) at University of Florida, advised by [Kristy Elizabeth Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](http://erinwalker.owlstown.com/) and [Michael Madaio](http://michaelmadaio.com/) and [Amy Ogan](https://www.amyogan.com/) at [Human-Computer Interaction Institute](https://hcii.cmu.edu/), Carnegie Mellon University. I received my bachelor degree from [Anhui University](http://en.ahu.edu.cn/) in Management Science.
 
 What I Do
 -----
