@@ -12,7 +12,7 @@ redirect_from:
 ## Active Projects
 ------
 ### *Camp DIALOGS*: Middle School AI Summer Camps
-<img align="right" width="450" height="650" src="/images/amby-playground.PNG">
+<img align="right" width="450" height="650" src="/images/amby-playground.png">
 In the Camp DIALOGS project ([project website](http://campdialogs.org)), we provide AI summer camp opportunities to middle school learners in Gainesville, Florida. We support students’ AI learning through a variety of lessons and activities, including collaboratively building conversational agents (like Siri or Alexa). To better support students’ creation of conversation AI, we design and build an interface, AMBY (AI Made By You). To understand the design needs, features and interface usability, we conduct participatory design for AMBY with the middle school students throughout the year and iteratively refine the interface. Using AMBY, students can add intents, training data and responses to build their own conversational AI. AMBY will be deployed beginning the summer of 2022.
 
 
