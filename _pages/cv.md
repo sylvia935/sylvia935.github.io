@@ -12,7 +12,7 @@ PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_May1_2022.pdf) \]
 
 Education
 ======
-* Ph.D. in Human-Centered Computing, University of Florida, 2024(expected)
+* Ph.D. in Human-Centered Computing, University of Florida, 2024 (expected)
 * M.S. in Information Science, University of Pittsburgh, 2020
 * B.S. in Management Science, Anhui University, 2018
 

@@ -11,6 +11,11 @@ redirect_from:
 
 ## Active Projects
 ------
+### *Camp DIALOGS*: Middle School AI Summer Camps
+<img align="right" width="450" height="650" src="/images/amby-playground.PNG">
+In the Camp DIALOGS project ([project website](http://campdialogs.org)), we provide AI summer camp opportunities to middle school learners in Gainesville, Florida. We support students’ AI learning through a variety of lessons and activities, including collaboratively building conversational agents (like Siri or Alexa). To better support students’ creation of conversation AI, we design and build an interface, AMBY (AI Made By You). To understand the design needs, features and interface usability, we conduct participatory design for AMBY with the middle school students throughout the year and iteratively refine the interface. Using AMBY, students can add intents, training data and responses to build their own conversational AI. AMBY will be deployed beginning the summer of 2022.
+
+
 ### *PRIME*: Engaging STEM Undergraduate Students in Computer Science with Intelligent Tutoring Systems
 <img align="right" width="450" height="650" src="/images/PRIME-screenshot.PNG">
 This is a collaborative research project at UF and NC State University ([project full description here](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/project.php?id=prime)). PRIME is an adaptive learning environment designed to support STEM undergraduates in learning computer science concepts through block-based programming. PRIME utilized Google’s Blockly framework to support block-based programs. We created adaptive, multilevel hints and feedback to help students on their computational thinking and problem-solving. In addition, we built student models about their affective and cognitive states, which we hope to inform when and how the system should offer intervention to students while completing the activities.   
