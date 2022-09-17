@@ -8,7 +8,7 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 {% include base_path %}
-PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_May1_2022.pdf) \] 
+PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_Sep_2022.pdf) \] 
 
 Education
 ======
@@ -32,11 +32,15 @@ Work experience
   
 Skills
 ======
-* Programming Skills: 
-  * R, JAVA, Python, Markdown, C, VB, SQL, MATLAB 
 
-* Research: 
-  * Experiment design, interview, survey, qualitative coding, statistical analysis, modeling, usability testing
+* Human-centered Research: 
+  * Contextual inquiry, interview, survey, storyboard, usability testing, persona, qualitative coding, dialogue act tagging, ethnography, case study, experiment design
+  
+* Programming Languages and Frameworks: 
+  * Python, HTML, CSS, Bootstrap, Javascript, Java, C, VB, SQL, MATLAB, Blazor, React, Blockly 
+
+* Statistical Analysis: 
+  * R, SPSS, JMP, Stata
   
 Awards and Honors
 ======
