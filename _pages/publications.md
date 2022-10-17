@@ -6,10 +6,15 @@ author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
+**A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development**
+<br/> 
+Gloria Ashiya Katuka, Yvonika Auguste, Song Yukyeong, <u>Xiaoyi Tian<u>, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, Tom McKlin.<br/>
+Paper in *Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE)*. To appear.
+
 **Early Design of a Conversational AI Development
 Platform for Middle Schoolers** \[[paper](../files/Kumar_VLHCC2022_poster_manuscript.pdf)\] <br/> 
 Amit Kumar, <u>Xiaoyi Tian</u>, Mehmet Celepkolu, Maya Israel, Kristy Elizabeth Boyer.<br/>
-Poster in *IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. To appear, 2022.
+Poster in *IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. September, 2022.
 
 **Modeling Frustration Trajectories and Problem-Solving Behaviors in Adaptive Learning Environments for Introductory Computer Science** \[[paper](../files/Tian_AIED_2021_PRIME.pdf)\] \[[slides](../files/Tian_AIED2021_PRIME_slides.pdf)\] <br/> 
 <u>Xiaoyi Tian</u>, Joseph B. Wiggins, Fahmid Morshed Fahid, Andrew Emerson, Dolly Bounajim, Andy Smith, Kristy Elizabeth Boyer, Eric Wiebe, Bradford Mott, James Lester.<br/> 
