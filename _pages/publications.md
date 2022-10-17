@@ -8,7 +8,7 @@ author_profile: true
 
 **A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development**
 <br/> 
-Gloria Ashiya Katuka, Yvonika Auguste, Song Yukyeong, <u>Xiaoyi Tian<u>, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, Tom McKlin.<br/>
+Gloria Ashiya Katuka, Yvonika Auguste, Song Yukyeong, <u>Xiaoyi Tian</u>, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, Tom McKlin.<br/>
 Paper in *Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE)*. To appear.
 
 **Early Design of a Conversational AI Development
