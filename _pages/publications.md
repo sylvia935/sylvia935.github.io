@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publication/
-author_profile: true
+author_profile: true 
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
