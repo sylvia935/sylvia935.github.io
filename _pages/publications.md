@@ -6,6 +6,12 @@ author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
+**AI Made By Youth: A Conversational AI Curriculum for Middle School Summer Camps**
+<br/> 
+Yukyeong Song, Gloria Katuka, Joanne Barrett, <u>Xiaoyi Tian</u>, Amit Kumar, Tom McKlin, Mehmet Celepkolu, Maya Israel and Kristy Elizabeth Boyer.<br/>
+Paper in *The Thirteenth Symposium on
+Educational Advances in Artificial Intelligence (EAAI)*. To appear.
+
 **A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development**
 <br/> 
 Gloria Ashiya Katuka, Yvonika Auguste, Song Yukyeong, <u>Xiaoyi Tian</u>, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, Tom McKlin.<br/>
