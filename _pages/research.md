@@ -15,8 +15,8 @@ redirect_from:
 <img align="right" width="450" height="650" src="/images/amby-playground.png">
 In [Camp DIALOGS](http://campdialogs.org), we provide two-week AI summer camp opportunities to middle school students living in the eastside of Gainesville, Florida. We support students’ AI learning through a variety of lessons and activities, including collaboratively building conversational AI applications (like Siri or Google Assistant). Currently, there is a lack of developmentally appropriate tools for youth learning to build conversational apps. We design and build a novel development environment, AMBY (AI Made By You), for youth to create their own conversational agents. We conduct contextual inquiry and usability studies with the middle school students throughout one year. In AMBY, students can generate training data and design conversational flow for their own conversational agent. We deploy AMBY in two summer camps this year where 37 students created 58 projects covering a variety of topics that were personally relevant to them.
 
-[Here is the demo video of our tool, AMBY]( https://www.youtube.com/watch?v=ejQ-fwUM6LE)
-[Watch the documentary for our summer camp]( https://news.ufl.edu/2022/08/ai-summer-camp-video/)
+[Watch the demo video of our tool, AMBY (4 minutes)]( https://www.youtube.com/watch?v=ejQ-fwUM6LE)
+[Watch the documentary for our summer camp (8 minutes)]( https://news.ufl.edu/2022/08/ai-summer-camp-video/)
 
 
 
