@@ -17,7 +17,7 @@ Gloria Ashiya Katuka, Yvonika Auguste, Yukyeong Song, <u>Xiaoyi Tian</u>, Amit K
 Paper in *Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE)*. March, 2023.
 
 
-**AI Made By Youth: A Conversational AI Curriculum for Middle School Summer Camps**
+**AI Made By Youth: A Conversational AI Curriculum for Middle School Summer Camps** \[[paper](../files/Song_EAAI_2023.pdf)\] 
 <br/> 
 Yukyeong Song, Gloria Katuka, Joanne Barrett, <u>Xiaoyi Tian</u>, Amit Kumar, Tom McKlin, Mehmet Celepkolu, Maya Israel, Kristy Elizabeth Boyer.<br/>
 Paper in *The Thirteenth Symposium on
