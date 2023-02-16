@@ -6,12 +6,12 @@ author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-**Are We on the Same Page? Modeling Linguistic Synchrony and Math Literacy in Mathematical Discussions**
+**Are We on the Same Page? Modeling Linguistic Synchrony and Math Literacy in Mathematical Discussions** <span style="color:blue">some *Best Short Paper Nominee* text</span>
 <br/>
 Yukyeong Song, Wanli Xing, <u>Xiaoyi Tian</u> and Chenglu Li.<br/>
 Paper in *13th International Learning Analytics and Knowledge Conference (LAK)*. March, 2023.
 
-**A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development**
+**A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development** <span style="color:blue">some *Best Paper* text</span>
 <br/> 
 Gloria Ashiya Katuka, Yvonika Auguste, Yukyeong Song, <u>Xiaoyi Tian</u>, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, Tom McKlin.<br/>
 Paper in *Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE)*. March, 2023.
