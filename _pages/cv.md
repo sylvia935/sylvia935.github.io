@@ -8,7 +8,7 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 {% include base_path %}
-PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_20221231.pdf) \] \[ [Resume for UX Research](https://txiaoyi.com/files/Xiaoyi_Tian_UX_resume_Oct2022.pdf) \] 
+PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_April2023.pdf) \] \[ [Resume for UX Research](https://txiaoyi.com/files/Xiaoyi_Tian_UX_resume_Oct2022.pdf) \] 
 
 Education
 ======
@@ -44,7 +44,7 @@ Skills
   
 Awards and Honors
 ======
-* Gartner Group Graduate Fellowship, University of Florida *2022*
+* Gartner Group Graduate Fellowship, University of Florida *2022' & 2023'*
 * Outstanding Undergraduate Thesis at Anhui University (Top 1% in Class) *2018* 
 * Academic Excellence Scholarship at Anhui University *2015' & 2016' & 2017'* 
 * ‘Merit Student’ at Anhui University *2015' & 2017'* 
