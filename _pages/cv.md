@@ -8,7 +8,7 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 {% include base_path %}
-PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_April2023.pdf) \] \[ [Resume for UX Research](https://txiaoyi.com/files/Xiaoyi_Tian_UX_resume_Oct2022.pdf) \] 
+PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_July2023.pdf) \] \[ [Resume for UX Research](https://txiaoyi.com/files/Xiaoyi_Tian_UX_resume_Oct2022.pdf) \] 
 
 Education
 ======
