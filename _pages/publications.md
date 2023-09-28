@@ -1,10 +1,16 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publication/
+permalink: /publications/
 author_profile: true 
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
+
+**Guide, Safety Net, Project Tester, and More: Investigating the Roles of Facilitators in an AI Summer Camp** \[[paper](../files/Song_ISLS2023_paper.pdf)\] \[[poster](../files/Song_ISLS2023_poster.pdf)\]<br/>
+<br/>
+Yukyeong Song, <u>Xiaoyi Tian</u>, Joanne Barrett, Maya Israel, Kristy Elizabeth Boyer.<br/>
+Poster in *16th International Conference of the Learning Sciences (ICLS)*. June, 2023.
+
 
 **Are We on the Same Page? Modeling Linguistic Synchrony and Math Literacy in Mathematical Discussions** \[[paper](../files/Song_LAK_2023.pdf)\] <br/>
 <span style="color:blue">*Best Short Paper Award*</span>
@@ -25,8 +31,7 @@ Yukyeong Song, Gloria Katuka, Joanne Barrett, <u>Xiaoyi Tian</u>, Amit Kumar, To
 Paper in *The Thirteenth Symposium on
 Educational Advances in Artificial Intelligence (EAAI)*. February, 2023.
 
-**Early Design of a Conversational AI Development
-Platform for Middle Schoolers** \[[paper](../files/Kumar_VLHCC2022_poster_manuscript.pdf)\] <br/> 
+**Early Design of a Conversational AI Development Platform for Middle Schoolers** \[[paper](../files/Kumar_VLHCC2022_poster_manuscript.pdf)\] <br/> 
 Amit Kumar, <u>Xiaoyi Tian</u>, Mehmet Celepkolu, Maya Israel, Kristy Elizabeth Boyer.<br/>
 Poster in *IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. September, 2022.
 
@@ -40,7 +45,7 @@ Full paper in *Proceedings of the 29th ACM Conference on User Modeling, Adaptati
 
 **Let's Talk It Out: A Chatbot for Effective Study Habit Behavioral Change** \[[paper](../files/Tian_CSCW2021_Official_paper.pdf)\] \[[slides](../files/Tian_CSCW21_chatbot_slides.pdf)\] \[[presentation](https://www.youtube.com/watch?v=rHN_aeZvpyY)\] \[[system demo](https://youtu.be/bLlDL5UCMeI)\]<br/> 
 <u>Xiaoyi Tian</u>, Zak Risha, Ishrat Ahmed, Arun Balajiee Lekshmi Narayanan, Jacob Biehl.<br/> 
-Journal artical in *Proceedings of the ACM on Human-Computer Interaction 5*. CSCW1. April, 2021.
+Journal article in *Proceedings of the ACM on Human-Computer Interaction 5*. CSCW1. April, 2021.
 
 **Understanding Rapport over Multiple Sessions with a Social, Teachable Robot** \[[paper](http://txiaoyi.com/files/Tian_AIED2020_Paper_Robot_multisession.pdf)\] \[[poster](http://txiaoyi.com/files/Tian_aied2020_poster.pdf)\]<br/>
 <u>Xiaoyi Tian</u>, Nichola Lubold, Leah Friedman, Erin Walker.<br/> 

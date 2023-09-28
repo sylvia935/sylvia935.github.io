@@ -44,9 +44,9 @@ Skills
   
 Awards and Honors
 ======
-* Gartner Group Graduate Fellowship, University of Florida *2022' & 2023'*
-* Outstanding Undergraduate Thesis at Anhui University (Top 1% in Class) *2018* 
-* Academic Excellence Scholarship at Anhui University *2015' & 2016' & 2017'* 
-* ‘Merit Student’ at Anhui University *2015' & 2017'* 
+* Gartner Group Graduate Fellowship, University of Florida, *2022 & 2023*
+* Outstanding Undergraduate Thesis at Anhui University (Top 1% in Class), *2018* 
+* Academic Excellence Scholarship at Anhui University, *2015 & 2016 & 2017* 
+* ‘Merit Student’ at Anhui University, *2015 & 2017* 
   
 
