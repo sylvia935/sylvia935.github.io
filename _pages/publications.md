@@ -6,7 +6,7 @@ author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-**Guide, Safety Net, Project Tester, and More: Investigating the Roles of Facilitators in an AI Summer Camp** \[[paper](../files/Song_ISLS2023_paper.pdf)\] \[[poster](../files/Song_ISLS2023_poster.pdf)\]<br/>
+**Guide, Safety Net, Project Tester, and More: Investigating the Roles of Facilitators in an AI Summer Camp**\[[paper](../files/Song_ISLS2023_paper.pdf)\] \[[poster](../files/Song_ISLS2023_poster.pdf)\]<br/>
 <br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Joanne Barrett, Maya Israel, Kristy Elizabeth Boyer.<br/>
 Poster in *16th International Conference of the Learning Sciences (ICLS)*. June, 2023.
