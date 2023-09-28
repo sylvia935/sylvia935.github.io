@@ -12,7 +12,7 @@ redirect_from:
 ## Active Projects
 ------
 ### *Camp DIALOGS*: Middle School AI Summer Camps
-*Collaborators: Yukyeong Song, Gloria Katuka, Joanne Barrett, Tom McKlin, Maya Israel*<br/>
+*Collaborators: Yukyeong Song, Gloria Katuka, Mehmet Celepkolu, Joanne Barrett, Christine Wise, Tom McKlin, Maya Israel*<br/>
 *University of Florida, LearnDialogue Lab*
 
 <img align="right" width="450" height="650" src="/images/amby-playground.png">
