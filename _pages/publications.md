@@ -8,11 +8,11 @@ author_profile: true
 
 **Artificial Intelligence Unplugged: Designing Unplugged Activities for a Conversational AI Summer Camp** <br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Nandika Regatti, Gloria Ashiya Katuka, Kristy Elizabeth Boyer and Maya Israel.<br/>
-Paper in *Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE)*. To appear
+Paper in *Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE)*. In press.
 
 **AMBY: A Development Environment for Youth to Create Conversational Agents** <br/>
 <u>Xiaoyi Tian</u>, Amit Kumar, Carly E Solomon, Kaceja D Calder, Gloria Ashiya Katuka, Yukyeong Song, Mehmet Celepkolu, Lydia Pezzullo, Joanne Barrett, Kristy Elizabeth Boyer, Maya Israel.<br/>
-Journal article in *International Journal of Child-Computer Interaction*. Conditionally accepted. 
+Journal article in *International Journal of Child-Computer Interaction*. In press. 
 
 **Guide, Safety Net, Project Tester, and More: Investigating the Roles of Facilitators in an AI Summer Camp** \[[paper](../files/Song_ISLS2023_paper.pdf)\] \[[poster](../files/Song_ISLS2023_poster.pdf)\]<br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Joanne Barrett, Maya Israel, Kristy Elizabeth Boyer.<br/>

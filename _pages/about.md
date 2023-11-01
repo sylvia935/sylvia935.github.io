@@ -21,7 +21,7 @@ What I Do
 
 My research focuses on Education Technologies and Human-Computer Interaction. I apply human-centered methods to first understand how humans perceive and interact with learning technologies, and then design and implement technology that offers personalized education. 
 
-My research particularly aims to answer a key question: **How can we design learning environments that foster AI learning and provides engaging learning experiences?** Computer-aided learning systems can do more than just present learning concepts and proper pedagogical feedback; they should be able to provide empowering and engaging experiences to learners. 
+My research particularly aims to answer a key question: **How can we design learning environments that foster AI learning and provide engaging learning experiences?** Digital learning systems can do more than just presenting learning concepts and proper pedagogical feedback; they should be able to provide empowering and engaging experiences to learners. 
  
 You can find my research projects [here](https://sylvia935.github.io/research/). 
 
