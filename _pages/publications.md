@@ -6,9 +6,14 @@ author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-**AMBY: A Development Environment for Youth to Create Conversational Agents** <br/>
+
+**Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
+<u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
+Journal article in *Language and Speech*, conditionally accepted. 
+
+**AMBY: A Development Environment for Youth to Create Conversational Agents** \[[paper](https://doi.org/10.1016/j.ijcci.2023.100618)\] <br/>
 <u>Xiaoyi Tian</u>, Amit Kumar, Carly E Solomon, Kaceja D Calder, Gloria Ashiya Katuka, Yukyeong Song, Mehmet Celepkolu, Lydia Pezzullo, Joanne Barrett, Kristy Elizabeth Boyer, Maya Israel.<br/>
-Journal article in *International Journal of Child-Computer Interaction*. In press. 
+Journal article in *International Journal of Child-Computer Interaction*, 38, 100618. 
 
 **Artificial Intelligence Unplugged: Designing Unplugged Activities for a Conversational AI Summer Camp** <br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Nandika Regatti, Gloria Ashiya Katuka, Kristy Elizabeth Boyer and Maya Israel.<br/>
