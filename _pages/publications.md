@@ -9,7 +9,11 @@ author_profile: true
 
 **Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
 <u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
-Journal article in *Language and Speech*, conditionally accepted. 
+Journal article in *Language and Speech*, In press. 
+
+**Investigating the Relationship between Math Literacy and Linguistic Synchrony in Online Mathematical Discussions through Large Scale Data Analytics** <br/>
+Yukyeong Song, Wanli Xing, Chenglu Li, <u>Xiaoyi Tian</u> and Yingbo Ma.<br/>
+Journal article in *British Journal of Educational Technology*. In press.
 
 
 **Artificial Intelligence Unplugged: Designing Unplugged Activities for a Conversational AI Summer Camp** <br/>
