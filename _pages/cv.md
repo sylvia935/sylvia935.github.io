@@ -8,7 +8,7 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 {% include base_path %}
-PDF versions: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_Nov2023.pdf) \] \[ [Resume for UX Research](https://txiaoyi.com/files/Xiaoyi_Tian_UX_resume_Oct2022.pdf) \] 
+PDF version: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_Feb2024.pdf) \] 
 
 Education
 ======
@@ -44,6 +44,9 @@ Skills
   
 Awards and Honors
 ======
+* Three Minute Thesis Award (second place), University of Florida, *2023*
+* Best Short Paper Award, International Learning Analytics and Knowledge Conference (LAK'23), *2023*
+* Best Paper Award, ACM Technical Symposium on Computer Science Education (SIGCSE'23), *2023*
 * Gartner Group Graduate Fellowship, University of Florida, *2022 & 2023*
 * Outstanding Undergraduate Thesis at Anhui University (Top 1% in Class), *2018* 
 * Academic Excellence Scholarship at Anhui University, *2015 & 2016 & 2017* 
