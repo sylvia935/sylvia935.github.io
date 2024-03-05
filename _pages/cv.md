@@ -8,7 +8,7 @@ redirect_from:
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 {% include base_path %}
-PDF version: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_Feb2024.pdf) \] 
+PDF version: \[ [CV](https://txiaoyi.com/files/Xiaoyi_Tian_CV_Mar2024.pdf) \] 
 
 Education
 ======
