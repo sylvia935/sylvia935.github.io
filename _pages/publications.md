@@ -6,9 +6,6 @@ author_profile: true
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 
-**A Framework for Inclusive AI Learning Design for Diverse Learners** <br/>
-Yukyeong Song, Lauren Weisberg, Shan Zhang, <u>Xiaoyi Tian</u>, Kristy Elizabeth Boyer, and Maya Israel.<br/>
-Journal article in *Computers and Education: Artificial Intelligence*, In press. \\}
 
 **Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
 <u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
@@ -18,6 +15,9 @@ Journal article in *Language and Speech*, In press.
 Yukyeong Song, Wanli Xing, Chenglu Li, <u>Xiaoyi Tian</u> and Yingbo Ma.<br/>
 Journal article in *British Journal of Educational Technology*. In press.
 
+**A Framework for Inclusive AI Learning Design for Diverse Learners** <br/>
+Yukyeong Song, Lauren Weisberg, Shan Zhang, <u>Xiaoyi Tian</u>, Kristy Elizabeth Boyer, and Maya Israel.<br/>
+Journal article in *Computers and Education: Artificial Intelligence*, 6, 100212. 
 
 **Artificial Intelligence Unplugged: Designing Unplugged Activities for a Conversational AI Summer Camp** <br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Nandika Regatti, Gloria Ashiya Katuka, Kristy Elizabeth Boyer and Maya Israel.<br/>
