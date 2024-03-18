@@ -12,7 +12,7 @@ redirect_from:
 ## Active Projects
 ------
 ### *Camp DIALOGS*: Middle School AI Summer Camps
-*Collaborators: Yukyeong Song, Gloria Katuka, Mehmet Celepkolu, Joanne Barrett, Christine Wise, Tom McKlin, Maya Israel*<br/>
+*Collaborators: Yukyeong Song, Gloria Katuka, Mehmet Celepkolu, Joanne Barrett, Christine Wise, Tom McKlin, Maya Israel, Kristy Boyer*<br/>
 *University of Florida, LearnDialogue Lab*
 
 <img align="right" width="450" height="650" src="/images/amby-playground.png">
@@ -25,7 +25,7 @@ At [Camp DIALOGS](http://campdialogs.org), we offer two-week AI summer camp expe
 
 
 ### Linguistic Alignment in Collborative Dialogue
-*Collaborators: Amanda Griffith, Zane Price, Kevin Tang*<br/>
+*Collaborators: Amanda Griffith, Zane Price, Kevin Tang, Kristy Boyer*<br/>
 *University of Florida, Computational Linguistics Course Project*
 
 <img align="right" width="450" height="650" src="/images/conver-align.png">
@@ -38,7 +38,7 @@ Linguistic alignment, the tendency of speakers to share common linguistic featur
 ------
 
 ### *PRIME*: Engaging STEM Undergraduate Students in Computer Science with Intelligent Tutoring Systems
-*Collaborators: Joseph Wiggins, Fahmid Morshed Fahid, Andrew Emerson, Dolly Bounajim, Andy Smith, Eric Wiebe, Bradford Mott, James Lester*<br/>
+*Collaborators: Joseph Wiggins, Fahmid Morshed Fahid, Andrew Emerson, Dolly Bounajim, Andy Smith, Kristy Boyer, Eric Wiebe, Bradford Mott, James Lester*<br/>
 *University of Florida, LearnDialogue Lab*
 
 <img align="right" width="450" height="650" src="/images/PRIME-screenshot.PNG">
