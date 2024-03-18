@@ -52,4 +52,8 @@ Awards and Honors
 * Academic Excellence Scholarship at Anhui University, *2015 & 2016 & 2017* 
 * ‘Merit Student’ at Anhui University, *2015 & 2017* 
   
-
+<object data="https://txiaoyi.com/files/Xiaoyi_Tian_CV_Mar2024.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://txiaoyi.com/files/Xiaoyi_Tian_CV_Mar2024.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://txiaoyi.com/files/Xiaoyi_Tian_CV_Mar2024.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
