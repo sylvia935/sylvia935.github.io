@@ -11,15 +11,15 @@ author_profile: true
 <u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
 Journal article in *Language and Speech*, In press. 
 
-**Investigating the Relationship between Math Literacy and Linguistic Synchrony in Online Mathematical Discussions through Large Scale Data Analytics** <br/>
+**Investigating the Relationship between Math Literacy and Linguistic Synchrony in Online Mathematical Discussions through Large Scale Data Analytics** \[[paper](https://doi.org/10.1111/bjet.13444)\] <br/>
 Yukyeong Song, Wanli Xing, Chenglu Li, <u>Xiaoyi Tian</u> and Yingbo Ma.<br/>
-Journal article in *British Journal of Educational Technology*. In press.
+Journal article in *British Journal of Educational Technology*. 00, 1-31
 
-**A Framework for Inclusive AI Learning Design for Diverse Learners** <br/>
+**A Framework for Inclusive AI Learning Design for Diverse Learners** \[[paper](https://doi.org/10.1016/j.caeai.2024.100212)\]<br/>
 Yukyeong Song, Lauren Weisberg, Shan Zhang, <u>Xiaoyi Tian</u>, Kristy Elizabeth Boyer, and Maya Israel.<br/>
 Journal article in *Computers and Education: Artificial Intelligence*, 6, 100212. 
 
-**Artificial Intelligence Unplugged: Designing Unplugged Activities for a Conversational AI Summer Camp** <br/>
+**Artificial Intelligence Unplugged: Designing Unplugged Activities for a Conversational AI Summer Camp** \[[paper](https://doi.org/10.1145/3626252.3630783)\] \[[slides](../files/SIGCSE_2024_AI_Unplugged_slides.pdf)\]<br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Nandika Regatti, Gloria Ashiya Katuka, Kristy Elizabeth Boyer and Maya Israel.<br/>
 Paper in *Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE)*. March, 2024.
 
