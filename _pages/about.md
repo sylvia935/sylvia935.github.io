@@ -16,7 +16,7 @@ Who I Am
 
 I am a Ph.D. candidate in [Human-Centered Computing](https://www.cise.ufl.edu/) at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](https://www.cs.pitt.edu/people/full-time-faculty/erin-walker/) and [Amy Ogan](https://www.amyogan.com/) (Carnegie Mellon University). I received my Bachelor's degree in Management Science from [Anhui University](http://en.ahu.edu.cn/).
 
-I'm expecting to graduate in Summer 2024, currently looking for research-focused positions. Here is my latest [CV](/files/Xiaoyi_Tian_CV_April2024.pdf). 
+<span style="color:blue;"> I am expecting to graduate in Summer 2024, currently looking for research-focused positions. Here is my latest [CV](/files/Xiaoyi_Tian_CV_April2024.pdf).</span>
 
 What I Do
 -----
