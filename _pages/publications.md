@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true 
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
+For the latest publications, please see my \[[Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en)\] page. 
 
 
 **Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
@@ -49,8 +50,7 @@ Paper in *Proceedings of the 54th ACM Technical Symposium on Computer Science Ed
 **AI Made By Youth: A Conversational AI Curriculum for Middle School Summer Camps** \[[paper](../files/Song_EAAI_2023.pdf)\] 
 <br/> 
 Yukyeong Song, Gloria Katuka, Joanne Barrett, <u>Xiaoyi Tian</u>, Amit Kumar, Tom McKlin, Mehmet Celepkolu, Maya Israel, Kristy Elizabeth Boyer.<br/>
-Paper in *The Thirteenth Symposium on
-Educational Advances in Artificial Intelligence (EAAI)*. February, 2023.
+Paper in *The Thirteenth Symposium on Educational Advances in Artificial Intelligence (EAAI)*. February, 2023.
 
 **Early Design of a Conversational AI Development Platform for Middle Schoolers** \[[paper](../files/Kumar_VLHCC2022_poster_manuscript.pdf)\] <br/> 
 Amit Kumar, <u>Xiaoyi Tian</u>, Mehmet Celepkolu, Maya Israel, Kristy Elizabeth Boyer.<br/>
