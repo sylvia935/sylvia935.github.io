@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true 
 ---
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
-For the latest publications, please see my \[[Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en)\] page. 
+## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
 
 **Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
