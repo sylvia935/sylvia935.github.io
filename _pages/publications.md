@@ -8,11 +8,11 @@ author_profile: true
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
 
-**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** <br/>
+**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** \[[Preprint](../files/Tian_EDM_LLM_2024_camera-ready.pdf)\] <br/> 
 <u>Xiaoyi Tian</u>, Amogh Mannekote, Carly Solomon, Yukyeong Song, Christine Fry Wise, Tom McKlin, Joanne Barrett, Kristy Elizabeth Boyer and Maya Israel.<br/>
 Poster in *Educational Data Mining*, In press. 
 
-**Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
+**Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[Paper](../files/Tian_Linguistic_Alignment_LAS_2024.pdf)\] \[[data and code](https://osf.io/97sak/)\] <br/>
 <u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
 Journal article in *Language and Speech*, In press. 
 
