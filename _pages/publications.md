@@ -8,6 +8,10 @@ author_profile: true
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
 
+**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** <br/>
+<u>Xiaoyi Tian</u>, Amogh Mannekote, Carly Solomon, Yukyeong Song, Christine Fry Wise, Tom McKlin, Joanne Barrett, Kristy Elizabeth Boyer and Maya Israel.<br/>
+Poster in *Educational Data Mining*, In press. 
+
 **Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[preprint](https://doi.org/10.31234/osf.io/nbw8x)\] \[[data and code](https://osf.io/97sak/)\] <br/>
 <u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
 Journal article in *Language and Speech*, In press. 
@@ -27,7 +31,6 @@ Paper in *Proceedings of the 55th ACM Technical Symposium on Computer Science Ed
 **AMBY: A Development Environment for Youth to Create Conversational Agents** \[[paper](https://doi.org/10.1016/j.ijcci.2023.100618)\] <br/>
 <u>Xiaoyi Tian</u>, Amit Kumar, Carly E Solomon, Kaceja D Calder, Gloria Ashiya Katuka, Yukyeong Song, Mehmet Celepkolu, Lydia Pezzullo, Joanne Barrett, Kristy Elizabeth Boyer, Maya Israel.<br/>
 Journal article in *International Journal of Child-Computer Interaction*, 38, 100618. 
-
 
 **Guide, Safety Net, Project Tester, and More: Investigating the Roles of Facilitators in an AI Summer Camp** \[[paper](../files/Song_ISLS2023_paper.pdf)\] \[[poster](../files/Song_ISLS2023_poster.pdf)\]<br/>
 Yukyeong Song, <u>Xiaoyi Tian</u>, Joanne Barrett, Maya Israel, Kristy Elizabeth Boyer.<br/>
