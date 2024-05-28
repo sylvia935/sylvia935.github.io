@@ -18,9 +18,10 @@ I am a Ph.D. candidate in [Human-Centered Computing](https://www.cise.ufl.edu/) 
 
 **Recent Updates** 
 
+I will be presenting my PhD defense on May 28, 2024. Here is the draft of my [dissertation document](/PhD_Dissertation_Xiaoyi_Tian_May14.pdf).
+
 I am currently on the academic job market. Here is my latest [CV](/files/Xiaoyi_Tian_CV_May2024.pdf).
 
-I will be presenting my PhD defense on May 28. Here is the draft of my [dissertation document](/PhD_Dissertation_Xiaoyi_Tian_May14.pdf).
 
 What I Do
 -----
