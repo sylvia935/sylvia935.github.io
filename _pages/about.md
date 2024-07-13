@@ -18,9 +18,9 @@ I am a Ph.D. candidate in [Human-Centered Computing](https://www.cise.ufl.edu/) 
 
 **Recent Updates** 
 
-I will be presenting my PhD defense on May 28, 2024. Here is the draft of my [dissertation document](/PhD_Dissertation_Xiaoyi_Tian_May14.pdf).
+I passed my PhD dissertation defense on May 28th. Huge thanks to my advisor, Kristy Boyer, and my committee members, Maya Israel, Jaime Ruiz and Eric Ragan for their time invested and incredible support!
 
-I am currently on the academic job market. Here is my latest [CV](/files/Xiaoyi_Tian_CV_May2024.pdf).
+This Fall, I will be joining [NC State University, Department of Computer Science](https://www.csc.ncsu.edu/index.php) as a research scientist in [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes)’s group.
 
 
 What I Do

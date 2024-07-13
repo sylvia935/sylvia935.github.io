@@ -8,7 +8,7 @@ author_profile: true
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
 
-**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** \[[Preprint](../files/Tian_EDM_LLM_2024_camera-ready.pdf)\] <br/> 
+**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** \[[Preprint](../files/Tian_EDM_LLM_2024_camera-ready.pdf)\] \[[Poster](../files/Tian_EDM2024_poster.pdf)\]<br/> 
 <u>Xiaoyi Tian</u>, Amogh Mannekote, Carly Solomon, Yukyeong Song, Christine Fry Wise, Tom McKlin, Joanne Barrett, Kristy Elizabeth Boyer and Maya Israel.<br/>
 Poster in *Educational Data Mining*, In press. 
 
