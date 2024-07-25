@@ -8,13 +8,13 @@ author_profile: true
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
 
-**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** \[[Preprint](../files/Tian_EDM_LLM_2024_camera-ready.pdf)\] \[[Poster](../files/Tian_EDM2024_poster.pdf)\]<br/> 
+**Examining LLM Prompting Strategies for Automatic Evaluation of Learner-created Computational Artifacts** \[[Paper](../files/Tian_EDM2024_paper.pdf)\] \[[Poster](../files/Tian_EDM2024_poster.pdf)\]<br/> 
 <u>Xiaoyi Tian</u>, Amogh Mannekote, Carly Solomon, Yukyeong Song, Christine Fry Wise, Tom McKlin, Joanne Barrett, Kristy Elizabeth Boyer and Maya Israel.<br/>
-Poster in *Educational Data Mining*, In press. 
+Poster in *Educational Data Mining (EDM)*, July, 2024. 
 
 **Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students** \[[Paper](../files/Tian_Linguistic_Alignment_LAS_2024.pdf)\] \[[data and code](https://osf.io/97sak/)\] <br/>
 <u>Xiaoyi Tian</u>, Amanda E. Griffith, Zane Price, Kristy Elizabeth Boyer, and Kevin Tang.<br/>
-Journal article in *Language and Speech*, In press. 
+Journal article in *Language and Speech*, 00, 1-24. 
 
 **Investigating the Relationship between Math Literacy and Linguistic Synchrony in Online Mathematical Discussions through Large Scale Data Analytics** \[[paper](https://doi.org/10.1111/bjet.13444)\] <br/>
 Yukyeong Song, Wanli Xing, Chenglu Li, <u>Xiaoyi Tian</u> and Yingbo Ma.<br/>
