@@ -14,12 +14,14 @@ redirect_from:
 # Who I Am
 -----
 
-I am a Ph.D. candidate in [Human-Centered Computing](https://www.cise.ufl.edu/) at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](https://www.cs.pitt.edu/people/full-time-faculty/erin-walker/) and [Amy Ogan](https://www.amyogan.com/) (Carnegie Mellon University). I received my Bachelor's degree in Management Science from [Anhui University](http://en.ahu.edu.cn/).
+I am a research scientist at North Carolina State University. I earned my Ph.D. degree in Human-Centered Computing at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](https://www.cs.pitt.edu/people/full-time-faculty/erin-walker/) and [Amy Ogan](https://www.amyogan.com/) (Carnegie Mellon University). I received my Bachelor's degree in Management Science from [Anhui University](http://en.ahu.edu.cn/).
 
-## Recent Updates 
+## Recent Updates
+ 
+- **Upcoming Position**: This Fall, I will be joining [NC State University, Department of Computer Science](https://www.csc.ncsu.edu/index.php) as a research scientist working with [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes).
 
 - **PhD Dissertation Defense**: I passed my PhD dissertation defense on May 28th. Huge thanks to my advisor, Kristy Boyer, and my committee members, Maya Israel, Jaime Ruiz, and Eric Ragan for their time invested and incredible support!
-- **Upcoming Position**: This Fall, I will be joining [NC State University, Department of Computer Science](https://www.csc.ncsu.edu/index.php) as a research scientist in [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes)’s group.
+
 
 
 # What I Do
