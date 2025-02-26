@@ -14,10 +14,10 @@ redirect_from:
 # Who I Am
 -----
 
-I am a research scientist at North Carolina State University. I earned my Ph.D. degree in Human-Centered Computing at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](https://www.cs.pitt.edu/people/full-time-faculty/erin-walker/) and [Amy Ogan](https://www.amyogan.com/) (Carnegie Mellon University). I received my Bachelor's degree in Management Science from [Anhui University](http://en.ahu.edu.cn/).
+I am a Research Scientist at Department of Computer Science, North Carolina State University. At NC State University, I work closely with [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes) and faculty at Digital Transformation of Education (DTE) cluster. I earned my Ph.D. degree in Human-Centered Computing at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](https://www.cs.pitt.edu/people/full-time-faculty/erin-walker/) and [Amy Ogan](https://www.amyogan.com/) (Carnegie Mellon University). I received my Bachelor's degree in Management Science from [Anhui University](http://en.ahu.edu.cn/).
 
 ## Recent Updates
-- **Publication**: Two first-authored papers accepted at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025! See you in April, 2025 at Denver, Colorado! 
+- **Publication**: Two first-authored presentations accepted at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025! See you in April, 2025 at Denver, Colorado! 
 
 - **Upcoming Position**: This Fall, I will be joining [NC State University, Department of Computer Science](https://www.csc.ncsu.edu/index.php) as a research scientist working with [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes).
 
