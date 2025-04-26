@@ -20,7 +20,7 @@ I am a Research Scientist of Computer Science at [North Carolina State Universit
 
 - **Presentation (April 2025)**: I'm presenting two papers at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025, April 23-27! One focuses on our classroom implementation on integrating AI in middle school science, the other one about using LLMs to automatically evaluate student chatbot projects. 
 
-- **Publication (April 2025)**: Two papers accepted to the [International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it/) 2025 — one long paper (acceptance rate: 19%) and one short paper (acceptance rate: <16%). This was a very competitive year. The long paper was led by Dmitri Droujkov and the short paper was led by Nazia Alam.
+- **Publication (April 2025)**: Two papers accepted to the [International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it/) 2025 — one long paper (acceptance rate: 19%) "Investigating the impact of confusion and agency on motivation in a game-based learning environment" led by Dmitri Droujkov and one short paper (acceptance rate: <16%) "Determining problem type using deep reinforcement learning in an intelligent tutor" led by Nazia Alam.  
 
 - **Publication (Feb 2025)**: One paper "What Does It Take to Support Problem Solving in Programming Classrooms? A New Framework from the K-12 Teacher Perspective" is accepted to the ACM conference on Human Factors in Computing Systems (CHI) 2025 - Lake-breaking work. This work was led by Ally Limke and co-authored with Saminur Islam, Bahare Riahi, Xiaoyi Tian, Marnie Hill, Veronica Catete and Tiffany Barnes. 
 
