@@ -18,7 +18,7 @@ I am a Research Scientist of Computer Science at [North Carolina State Universit
 
 ## Recent Updates
 
-- **Presentation (April 2025)**: I'm presenting two papers at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025, April 23-27! One focuses on our classroom implementation on integrating AI in middle school science [slides](../files/Tian_AERA25_My_bot_can_talk_science.pdf), the other one about using LLMs to automatically evaluate student chatbot projects [slides](../files/Tian_AERA25_LLM_Chatbot_Evaluation.pdf). 
+- **Presentation (April 2025)**: I'm presenting two papers at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025, April 23-27! One focuses on our classroom implementation on integrating AI in middle school science \[[slides](../files/Tian_AERA25_My_bot_can_talk_science.pdf)\], the other one about using LLMs to automatically evaluate student chatbot projects \[[slides](../files/Tian_AERA25_LLM_Chatbot_Evaluation.pdf)\]. 
 
 - **Publication (April 2025)**: Two papers accepted to the [International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it/) 2025 — one long paper (acceptance rate: 19%) "Investigating the impact of confusion and agency on motivation in a game-based learning environment" led by Dmitri Droujkov and one short paper (acceptance rate: <16%) "Determining problem type using deep reinforcement learning in an intelligent tutor" led by Nazia Alam.  
 

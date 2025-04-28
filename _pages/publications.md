@@ -7,7 +7,9 @@ author_profile: true
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
-**[Designing for Children to Build Conversational Agents and Learn about Artificial Intelligence](../files/PhD_Dissertation_Xiaoyi_Tian.pdf)**<br/> 
+
+
+**Designing for Children to Build Conversational Agents and Learn about Artificial Intelligence** \[[dissertation](../files/PhD_Dissertation_Xiaoyi_Tian.pdf)\]<br/> 
 <u>Xiaoyi Tian</u><br/> 
 PhD Dissertation, University of Florida, August, 2024
 
