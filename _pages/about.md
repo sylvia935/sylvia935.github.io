@@ -33,9 +33,9 @@ I am a Research Scientist of Computer Science at [North Carolina State Universit
 # What I Do
 -----
 
-My research intersects the domains of Human-Computer Interaction, AI in Education, Collaborative Learning, and Computing Education. I use human-centered design methods and artificial intelligence techniques to enhance human learning and cultivate productive collaboration, especially among young learners. 
+My research intersects the domains of Artificial Intelligence, Human-Computer Interaction, Collaborative Learning, and Computing Education. My overarching goal is to build AI-powered applications that empower all learners to become critical thinkers, effective collaborators, and confident navigators of our digital world.
 
-My research particularly aims to answer a key question: **How can we effectively build learning environments and student modules that foster human learning in computing?** Digital learning systems can do more than just presenting learning concepts and proper pedagogical feedback; they should be able to provide empowering and engaging experiences to learners. 
- 
+I pursue this through three core, synergistic directions: first, **designing human-AI interactions** that make AI systems transparent, build AI literacy, and support learning; second, **developing intelligent learner modeling techniques** to provide adaptive, personalized support and feedback at scale; and third, **investigating and fostering productive collaborative learning** among young learners through the analysis of their multimodal interactions. 
+
 You can find my research projects [here](https://sylvia935.github.io/research/). 
 
