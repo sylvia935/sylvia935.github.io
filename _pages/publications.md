@@ -8,16 +8,16 @@ author_profile: true
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
 
-**Investigating the Impact of Confusion and Agency on Motivation in a Game-Based Learning Environment** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-98465-5_18)\]<br/> 
+**Investigating the Impact of Confusion and Agency on Motivation in a Game-Based Learning Environment** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-98420-4_13)\]<br/> 
 Dmitri Droujkov, Andrew Emerson, Dan Carpenter, <u>Xiaoyi Tian</u>, Roger Azevedo, and Tiffany Barnes.<br/>
 Long Paper in *Proceedings of International Conference on Artificial Intelligence in Education (AIED)*, July, 2025. 
 
-**Determining Problem Type Using Deep Reinforcement Learning in a Data-Driven Intelligent Tutor** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-98420-4_13)\] \[[Slides](../files/Alam_AIED2025_DRL.pdf)\]<br/> 
+**Determining Problem Type Using Deep Reinforcement Learning in a Data-Driven Intelligent Tutor** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-98465-5_18)\] \[[Slides](../files/Alam_AIED2025_DRL.pdf)\]<br/> 
 Nazia Alam, Kimia Fazeli, <u>Xiaoyi Tian</u>, Min Chi, and Tiffany Barnes.<br/>
 Short Paper in *Proceedings of International Conference on Artificial Intelligence in Education (AIED)*, July, 2025. 
 
 **Combining Log Data and Collaborative Dialogue Features to Predict Project Quality in Middle School AI Education** \[[Paper](https://arxiv.org/pdf/2506.11326)\] \[[Slides](../files/Borchers_CSEDM25_AMBY.pdf)\]<br/> 
-<u>Xiaoyi Tian</u>, Conrad Borchers, Kristy Elizabeth Boyer and Maya Israel.<br/>
+Conrad Borchers, <u>Xiaoyi Tian</u>, Kristy Elizabeth Boyer and Maya Israel.<br/>
 Short Paper in *9th Educational Data Mining in Computer Science Education (CSEDM) Workshop*, July, 2025. 
 
 **Investigating the Impact and Student Perceptions of Guided Parsons Problems for Learning Logic with Subgoals** \[[Paper](https://arxiv.org/pdf/2505.04712)\] \[[Slides](../files/Tithi_CSEDM25_GuidedParsons.pdf)\]<br/> 
