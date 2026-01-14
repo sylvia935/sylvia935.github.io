@@ -7,6 +7,13 @@ author_profile: true
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
+**AI Scholars Program: Scaling AI Literacy through K-12 outreach** \[[Paper](../files/Tian_EAAI26_AI_Scholars.pdf)\]<br/> 
+<u>Xiaoyi Tian</u>, Yasitha Rajapaksha, Ally Limke, Clara DiMarco, Emily Bryans Dobar, Marnie Hill,Jamie Payton, and Tiffany Barnes.<br/>
+Long Paper in *The 16th Symposium on Educational Advances in Artificial Intelligence (EAAI)*, January, 2026. 
+
+**The Promise and Limits of LLMs in Constructing Proofs and Hints for Logic Problems in Intelligent Tutoring Systems** \[[Paper](https://doi.org/10.1016/j.caeai.2025.100490)\]<br/> 
+Sutapa Dey Tithi, Arun Kumar Ramesh, Clara DiMarco, <u>Xiaoyi Tian</u>, Nazia Alam, Kimia Fazeli, and Tiffany Barnes.<br/>
+Journal article in *Computers and Education: Artificial Intelligence*, December, 2025. 
 
 **Investigating the Impact of Confusion and Agency on Motivation in a Game-Based Learning Environment** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-98420-4_13)\]<br/> 
 Dmitri Droujkov, Andrew Emerson, Dan Carpenter, <u>Xiaoyi Tian</u>, Roger Azevedo, and Tiffany Barnes.<br/>
