@@ -7,6 +7,10 @@ author_profile: true
 <script src="https://www.w3counter.com/tracker.js?id=129746"></script>
 ## For the latest publications, please see my [Google Scholar](https://scholar.google.com/citations?user=kc4yf5UAAAAJ&hl=en) page. 
 
+
+
+
+
 **AI Scholars Program: Scaling AI Literacy through K-12 outreach** \[[Paper](../files/Tian_EAAI26_AI_Scholars.pdf)\]<br/> 
 <u>Xiaoyi Tian</u>, Yasitha Rajapaksha, Ally Limke, Clara DiMarco, Emily Bryans Dobar, Marnie Hill,Jamie Payton, and Tiffany Barnes.<br/>
 Long Paper in *The 16th Symposium on Educational Advances in Artificial Intelligence (EAAI)*, January, 2026. 
