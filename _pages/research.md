@@ -11,6 +11,40 @@ redirect_from:
 
 ## Active Projects
 ------
+
+### *BotBuilder*: Supporting Student Learning of Generative AI and Large Language Models through AI Chatbot Construction
+*Collaborators: Tiffany Barnes, Joey Huang, Deniz Ozturk, Daksh Pratap Singh, Yasitha Rajapaksha, Jiayu Li,cGeorgie Jin, Yang Shi*<br/>
+*North Carolina State University*
+
+<img align="right" width="450" height="650" src="/images/botbuilder.png">
+
+BotBuilder is a no-code chatbot development environment that enables teachers and students to design personalized AI chatbots for learning. BotBuilder allows users to configure a chatbot's purpose, personality, communication style, and behavioral guidelines while also incorporating AI literacy features that help learners recognize and address hallucinations. The platform includes multimodal input, customizable voice settings, and a controlled hallucination generation pipeline that provides authentic opportunities for students to identify inaccurate AI responses and improve their chatbot designs.
+
+Our research investigates how teachers and students design, evaluate, and refine educational chatbots, and how these design decisions influence learning, trust, and critical AI literacy. Through classroom studies, summer camps, and teacher professional development workshops, we examine how learners build trustworthy AI systems while developing a deeper understanding of prompt engineering, AI limitations, and responsible AI use. We are also developing teacher dashboards that provide actionable insights into student interactions, chatbot behaviors, and opportunities for instructional support.
+
+[Visit BotBuilder](https://go.ncsu.edu/botbuilder)
+
+### *ElementaryAI*: Leveraging AI Innovation to Enhance School-Wide Literacy Through Active Learning in Montgomery County, North Carolina, Elementary Schools
+*Collaborators: Tiffany Barnes, Shiyan Jiang, Xiaoyi Tian, Carrie Robledo, Joanna Perkins, Montgomery County Schools*<br/>
+*North Carolina State University*
+
+<img align="right" width="450" height="650" src="/images/elementaryai.png">
+
+ElementaryAI is an NSF-funded project ($926,299, DRL-2524505; 10/01/2025-09/30/2028) that introduces foundational AI literacy to elementary school students through interdisciplinary learning experiences that combine literacy, storytelling, and AI creation. Rather than simply interacting with AI tools, students bring story characters and toys to life by designing their own conversational AI companions. Through these activities, learners explore how AI generates responses, why AI can make mistakes, and how thoughtful prompt design can improve chatbot behavior.
+
+Working closely with elementary teachers, we are co-designing curriculum materials, classroom technologies, and professional development that seamlessly integrate AI literacy into existing instructional practices. Our research examines how young children develop conceptual understanding of AI, how teachers incorporate AI into elementary classrooms, and how creative AI design experiences can foster critical thinking, computational thinking, and responsible AI use.
+
+
+### *ExLAIM*: Experiential Learning for In-Service Teachers: Augmenting Teaching and Learning with Generative AI
+*Collaborators: Tiffany Barnes, Xiaoyi Tian, Dongkuan Xu*<br/>
+*North Carolina State University*
+
+<img align="right" width="450" height="650" src="/images/exlent.png">
+
+ExLAIM is an NSF-funded project ($1,000,000, DUE-2526340; 01/01/2026-12/31/2028) that engages teachers and undergraduate students in a 4-week intensive experiential learning on generative AI, covering a range of topics from building a basic understanding of generative AI, to prompt engineering, to using genAI for teacher tasks, using genAI for student
+learning, and addressing the ethics of generative AI in K12 classrooms, including cheating and advancing student knowledge through creative use of genAI assignments.
+
+
 ### *Camp DIALOGS*: Fostering Computer Science and AI Learning for Youth through Conversational Agent Development Experiences
 *Collaborators: Yukyeong Song, Gloria Katuka, Mehmet Celepkolu, Joanne Barrett, Christine Wise, Tom McKlin, Maya Israel, Kristy Boyer*<br/>
 *University of Florida, LearnDialogue Lab*
