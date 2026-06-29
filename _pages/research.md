@@ -13,7 +13,7 @@ redirect_from:
 ------
 
 ### *BotBuilder*: Supporting Student Learning of Generative AI and Large Language Models through AI Chatbot Construction
-*Collaborators: Tiffany Barnes, Joey Huang, Deniz Ozturk, Daksh Pratap Singh, Yasitha Rajapaksha, Jiayu Li,cGeorgie Jin, Yang Shi*<br/>
+*Collaborators: Tiffany Barnes, Joey Huang, Deniz Ozturk, Daksh Pratap Singh, Yasitha Rajapaksha, Jiayu Li, Qiao (Georgie) Jin, Yang Shi*<br/>
 *North Carolina State University*
 
 <img align="right" width="450" height="650" src="/images/botbuilder.png">
