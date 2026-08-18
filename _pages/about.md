@@ -13,8 +13,9 @@ redirect_from:
 
 # Who I Am
 -----
+I am an Assistant Professor of Information Technology at Kennesaw State University. My research lies at the intersection of human-centered AI, computing education, and learning technologies, with a particular focus on designing AI-powered learning experiences for K–12 students and educators.
 
-I am a Research Scientist of Computer Science at [North Carolina State University](https://www.csc.ncsu.edu/index.php). At NC State, I work closely with [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes) and faculty at Digital Transformation of Education (DTE) cluster. I earned my Ph.D. degree in Human-Centered Computing at University of Florida, advised by [Kristy Boyer](https://www.cise.ufl.edu/research/learndialogue/person.php?id=keboyer). I earned my Master's degree in [Information Science](https://sci.pitt.edu/) at University of Pittsburgh, where I worked closely with [Erin Walker](https://www.cs.pitt.edu/people/full-time-faculty/erin-walker/) and [Amy Ogan](https://www.amyogan.com/) (Carnegie Mellon University). I received my Bachelor's degree in Management Science from [Anhui University](http://en.ahu.edu.cn/).
+Prior to joining Kennesaw State University, I was a Research Scientist in Computer Science at North Carolina State University. I earned my Ph.D. in Human-Centered Computing from the University of Florida and my M.S. in Information Science from the University of Pittsburgh. I received my B.S. in Management Science from Anhui University.
 
 ## Recent Updates
 - **Upcoming Position**: Starting in Fall 2026, I will join [Kennesaw State University, Department of Information Technology](https://campus.kennesaw.edu/colleges-departments/ccse/academics/information-technology/index.php) as a tenure-track assistant professor.
@@ -22,14 +23,14 @@ I am a Research Scientist of Computer Science at [North Carolina State Universit
 - **Presentations (June 2026)**: I am attending the [Festival of Learning 2026](https://festival-of-learning-2026.info/) in Seoul, South Korea! I will be presenting an AIED short paper on AI attitude outcomes following a middle school conversational AI learning experience \[[paper](https://txiaoyi.com/files/Tian_AIED2026_AMBY.pdf)\], as well as an interactive demo of [BotBuilder](https://go.ncsu.edu/botbuilder), a chatbot development environment for AI literacy and hallucination awareness. I also co-authored an AIED full paper on understanding dialogue patterns using Ordered Network Analysis, led by Shan Zhang \[[paper](https://txiaoyi.com/files/zhang_AIED26_ona.pdf)\].
 
 - **Publication (Jan 2026)**: Three full papers accepted at the [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi2026.acm.org/) 2026! (1) a paper led by me on how children detect and mitigate AI hallucinations during chatbot development; (2) a paper led by Sutapa Dey Tithi on the design and impact of interactive worked examples in intelligent tutoring systems; and (3) a paper led by Bahare Riahi on teacher–chatbot interaction and affect in block-based programming.
-
+<!--
 - **Publication (Nov 2025)**: One paper accepted at the [The 16th Symposium on Educational Advances in Artificial Intelligence (EAAI)](https://eaai-conf.github.io/) 2026. This paper, led by me, presents an experience report implementing the [AI Scholars Program](https://invite.illinois.edu/alliance/aischolars/). \[[paper](go.ncsu.edu/eaai26)\]
 
 - **Presentation (April 2025)**: I'm presenting two papers at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025, April 23-27! One focuses on our classroom implementation on integrating AI in middle school science \[[slides](../files/Tian_AERA25_My_bot_can_talk_science.pdf)\], the other one about using LLMs to automatically evaluate student chatbot projects \[[slides](../files/Tian_AERA25_LLM_Chatbot_Evaluation.pdf)\]. 
 
 - **Publication (April 2025)**: Two papers accepted to the [International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it/) 2025 — one long paper (acceptance rate: 19%) "Investigating the impact of confusion and agency on motivation in a game-based learning environment" led by Dmitri Droujkov and one short paper (acceptance rate: <16%) "Determining problem type using deep reinforcement learning in an intelligent tutor" led by Nazia Alam.  
 
-<!--
+
 - **Publication (Feb 2025)**: One paper "What Does It Take to Support Problem Solving in Programming Classrooms? A New Framework from the K-12 Teacher Perspective" is accepted to the ACM conference on Human Factors in Computing Systems (CHI) 2025 - Lake-breaking work. This work was led by Ally Limke and co-authored with Saminur Islam, Bahare Riahi, Xiaoyi Tian, Marnie Hill, Veronica Catete and Tiffany Barnes. 
 
 - **Upcoming Position (July 2024)**: This Fall, I will be joining [NC State University, Department of Computer Science](https://www.csc.ncsu.edu/index.php) as a research scientist working with [Tiffany Barnes](https://www.csc.ncsu.edu/people/tmbarnes).
