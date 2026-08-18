@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-# Who I Am
+
 -----
 I am an Assistant Professor of Information Technology at Kennesaw State University. My research lies at the intersection of human-centered AI, computing education, and learning technologies, with a particular focus on designing AI-powered learning experiences for K–12 students and educators.
 
@@ -23,7 +23,9 @@ Prior to joining Kennesaw State University, I was a Research Scientist in Comput
 - **Presentations (June 2026)**: I am attending the [Festival of Learning 2026](https://festival-of-learning-2026.info/) in Seoul, South Korea! I will be presenting an AIED short paper on AI attitude outcomes following a middle school conversational AI learning experience \[[paper](https://txiaoyi.com/files/Tian_AIED2026_AMBY.pdf)\], as well as an interactive demo of [BotBuilder](https://go.ncsu.edu/botbuilder), a chatbot development environment for AI literacy and hallucination awareness. I also co-authored an AIED full paper on understanding dialogue patterns using Ordered Network Analysis, led by Shan Zhang \[[paper](https://txiaoyi.com/files/zhang_AIED26_ona.pdf)\].
 
 - **Publication (Jan 2026)**: Three full papers accepted at the [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi2026.acm.org/) 2026! (1) a paper led by me on how children detect and mitigate AI hallucinations during chatbot development; (2) a paper led by Sutapa Dey Tithi on the design and impact of interactive worked examples in intelligent tutoring systems; and (3) a paper led by Bahare Riahi on teacher–chatbot interaction and affect in block-based programming.
+
 <!--
+
 - **Publication (Nov 2025)**: One paper accepted at the [The 16th Symposium on Educational Advances in Artificial Intelligence (EAAI)](https://eaai-conf.github.io/) 2026. This paper, led by me, presents an experience report implementing the [AI Scholars Program](https://invite.illinois.edu/alliance/aischolars/). \[[paper](go.ncsu.edu/eaai26)\]
 
 - **Presentation (April 2025)**: I'm presenting two papers at [American Educational Research Association (AERA)](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting) Annual Meeting 2025, April 23-27! One focuses on our classroom implementation on integrating AI in middle school science \[[slides](../files/Tian_AERA25_My_bot_can_talk_science.pdf)\], the other one about using LLMs to automatically evaluate student chatbot projects \[[slides](../files/Tian_AERA25_LLM_Chatbot_Evaluation.pdf)\]. 
