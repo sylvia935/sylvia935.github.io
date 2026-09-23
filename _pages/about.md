@@ -15,7 +15,7 @@ redirect_from:
 -----
 I am an Assistant Professor of Information Technology at Kennesaw State University. My research lies at the intersection of human-centered AI, computing education, and learning technologies, with a particular focus on designing AI-powered learning experiences for K–12 students and educators.
 
-Prior to joining Kennesaw State University, I was a Research Scientist in Computer Science at North Carolina State University. I earned my Ph.D. in Human-Centered Computing from the University of Florida and my M.S. in Information Science from the University of Pittsburgh. I received my B.S. in Management Science from Anhui University.
+I also hold a courtesy appointment as a Research Scientist in Computer Science at North Carolina State University. I earned my Ph.D. in Human-Centered Computing from the University of Florida and my M.S. in Information Science from the University of Pittsburgh. I received my B.S. in Management Science from Anhui University.
 
 ## Recent Updates
 - **Upcoming Position**: Starting in Fall 2026, I will join [Kennesaw State University, Department of Information Technology](https://campus.kennesaw.edu/colleges-departments/ccse/academics/information-technology/index.php) as a tenure-track assistant professor.
