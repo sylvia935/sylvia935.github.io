@@ -15,10 +15,10 @@ redirect_from:
 -----
 I am an Assistant Professor of Information Technology at Kennesaw State University. My research lies at the intersection of human-centered AI, computing education, and learning technologies, with a particular focus on designing AI-powered learning experiences for K–12 students and educators.
 
-I also hold a courtesy appointment as a Research Scientist in Computer Science at North Carolina State University. I earned my Ph.D. in Human-Centered Computing from the University of Florida and my M.S. in Information Science from the University of Pittsburgh. I received my B.S. in Management Science from Anhui University.
+I also hold an appointment as a visiting Research Scientist in Computer Science at North Carolina State University. I earned my Ph.D. in Human-Centered Computing from the University of Florida and my M.S. in Information Science from the University of Pittsburgh. I received my B.S. in Management Science from Anhui University.
 
 ## Recent Updates
-- **Upcoming Position**: Starting in Fall 2026, I will join [Kennesaw State University, Department of Information Technology](https://campus.kennesaw.edu/colleges-departments/ccse/academics/information-technology/index.php) as a tenure-track assistant professor.
+- **Upcoming Position**: Starting in Fall 2026, I will join [Kennesaw State University, Department of Information Technology](https://campus.kennesaw.edu/colleges-departments/ccse/academics/information-technology/index.php) as a tenure-track assistant professor. At KSU, I will direct the [human-centered AI for learning](https://tianhci.com) research lab. 
 
 - **Presentations (June 2026)**: I am attending the [Festival of Learning 2026](https://festival-of-learning-2026.info/) in Seoul, South Korea! I will be presenting an AIED short paper on AI attitude outcomes following a middle school conversational AI learning experience \[[paper](https://txiaoyi.com/files/Tian_AIED2026_AMBY.pdf)\], as well as an interactive demo of [BotBuilder](https://go.ncsu.edu/botbuilder), a chatbot development environment for AI literacy and hallucination awareness. I also co-authored an AIED full paper on understanding dialogue patterns using Ordered Network Analysis, led by Shan Zhang \[[paper](https://txiaoyi.com/files/zhang_AIED26_ona.pdf)\].
 
