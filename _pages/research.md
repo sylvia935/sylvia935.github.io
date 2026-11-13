@@ -24,7 +24,7 @@ Our research investigates how teachers and students design, evaluate, and refine
 
 [Visit BotBuilder](https://go.ncsu.edu/botbuilder)
 
-[Access teacher PD material, September 2026](https://docs.google.com/presentation/d/1He7pMYC40xE1Se5zuJr3ueXHGp-35K-DirPzaR_Wf2g/edit?usp=sharing)
+[Access teacher professional development material](https://docs.google.com/presentation/d/1YN-yvxd7uPrvvBYHP12k1zQeYaK2uCdZ36OUolJHSPg/edit?usp=sharing)
 
 ### *ElementaryAI*: Leveraging AI Innovation to Enhance School-Wide Literacy Through Active Learning in Montgomery County, North Carolina, Elementary Schools
 *Collaborators: Tiffany Barnes, Shiyan Jiang, Xiaoyi Tian, Carrie Robledo, Joanna Perkins, Montgomery County Schools, NC*<br/>
